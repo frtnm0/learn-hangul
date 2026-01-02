@@ -82,8 +82,8 @@ export default function App() {
   }
 
   // map generated wordlists into Quiz/Reviewer-friendly format
-  const wordsCommonItems = (commonWords || []).map(w => ({ char: w.word, name: w.romanization || w.word, example: w.meaning || '' }))
-  const wordsShortItems = (shortWords || []).map(w => ({ char: w.word, name: w.romanization || w.word, example: w.meaning || '' }))
+  const wordsCommonItems = (commonWords || []).map(w => ({ char: w.word, name: w.romanization || w.word, example: w.translation || '' }))
+  const wordsShortItems = (shortWords || []).map(w => ({ char: w.word, name: w.romanization || w.word, example: w.translation || '' }))
 
   return (
     <div className="app" data-theme={theme}>
