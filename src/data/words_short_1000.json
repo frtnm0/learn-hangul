@@ -1,0 +1,5002 @@
+[
+  {
+    "word": "내가",
+    "romanization": "naega",
+    "meaning": ""
+  },
+  {
+    "word": "난",
+    "romanization": "nan",
+    "meaning": ""
+  },
+  {
+    "word": "그",
+    "romanization": "geu",
+    "meaning": ""
+  },
+  {
+    "word": "안",
+    "romanization": "an",
+    "meaning": ""
+  },
+  {
+    "word": "내",
+    "romanization": "nae",
+    "meaning": ""
+  },
+  {
+    "word": "수",
+    "romanization": "su",
+    "meaning": ""
+  },
+  {
+    "word": "이",
+    "romanization": "i",
+    "meaning": ""
+  },
+  {
+    "word": "네",
+    "romanization": "ne",
+    "meaning": ""
+  },
+  {
+    "word": "거야",
+    "romanization": "geoya",
+    "meaning": ""
+  },
+  {
+    "word": "좀",
+    "romanization": "jom",
+    "meaning": ""
+  },
+  {
+    "word": "그래",
+    "romanization": "geurae",
+    "meaning": ""
+  },
+  {
+    "word": "왜",
+    "romanization": "wae",
+    "meaning": ""
+  },
+  {
+    "word": "있어",
+    "romanization": "isseo",
+    "meaning": ""
+  },
+  {
+    "word": "더",
+    "romanization": "deo",
+    "meaning": ""
+  },
+  {
+    "word": "한",
+    "romanization": "han",
+    "meaning": ""
+  },
+  {
+    "word": "우리",
+    "romanization": "uri",
+    "meaning": ""
+  },
+  {
+    "word": "잘",
+    "romanization": "jal",
+    "meaning": ""
+  },
+  {
+    "word": "할",
+    "romanization": "hal",
+    "meaning": ""
+  },
+  {
+    "word": "다",
+    "romanization": "da",
+    "meaning": ""
+  },
+  {
+    "word": "무슨",
+    "romanization": "museun",
+    "meaning": ""
+  },
+  {
+    "word": "정말",
+    "romanization": "jeongmal",
+    "meaning": ""
+  },
+  {
+    "word": "그냥",
+    "romanization": "geunyang",
+    "meaning": ""
+  },
+  {
+    "word": "게",
+    "romanization": "ge",
+    "meaning": ""
+  },
+  {
+    "word": "그럼",
+    "romanization": "geureom",
+    "meaning": ""
+  },
+  {
+    "word": "있는",
+    "romanization": "issneun",
+    "meaning": ""
+  },
+  {
+    "word": "해",
+    "romanization": "hae",
+    "meaning": ""
+  },
+  {
+    "word": "지금",
+    "romanization": "jigeum",
+    "meaning": ""
+  },
+  {
+    "word": "뭐",
+    "romanization": "mwo",
+    "meaning": ""
+  },
+  {
+    "word": "아니",
+    "romanization": "ani",
+    "meaning": ""
+  },
+  {
+    "word": "것",
+    "romanization": "geos",
+    "meaning": ""
+  },
+  {
+    "word": "날",
+    "romanization": "nal",
+    "meaning": ""
+  },
+  {
+    "word": "제가",
+    "romanization": "jega",
+    "meaning": ""
+  },
+  {
+    "word": "넌",
+    "romanization": "neon",
+    "meaning": ""
+  },
+  {
+    "word": "여기",
+    "romanization": "yeogi",
+    "meaning": ""
+  },
+  {
+    "word": "저",
+    "romanization": "jeo",
+    "meaning": ""
+  },
+  {
+    "word": "전",
+    "romanization": "jeon",
+    "meaning": ""
+  },
+  {
+    "word": "건",
+    "romanization": "geon",
+    "meaning": ""
+  },
+  {
+    "word": "이제",
+    "romanization": "ije",
+    "meaning": ""
+  },
+  {
+    "word": "거",
+    "romanization": "geo",
+    "meaning": ""
+  },
+  {
+    "word": "걸",
+    "romanization": "geol",
+    "meaning": ""
+  },
+  {
+    "word": "아",
+    "romanization": "a",
+    "meaning": ""
+  },
+  {
+    "word": "없어",
+    "romanization": "eopseo",
+    "meaning": ""
+  },
+  {
+    "word": "그게",
+    "romanization": "geuge",
+    "meaning": ""
+  },
+  {
+    "word": "나",
+    "romanization": "na",
+    "meaning": ""
+  },
+  {
+    "word": "못",
+    "romanization": "mos",
+    "meaning": ""
+  },
+  {
+    "word": "제",
+    "romanization": "je",
+    "meaning": ""
+  },
+  {
+    "word": "닥터",
+    "romanization": "dakteo",
+    "meaning": ""
+  },
+  {
+    "word": "네가",
+    "romanization": "nega",
+    "meaning": ""
+  },
+  {
+    "word": "그런",
+    "romanization": "geureon",
+    "meaning": ""
+  },
+  {
+    "word": "다른",
+    "romanization": "dareun",
+    "meaning": ""
+  },
+  {
+    "word": "돼",
+    "romanization": "dwae",
+    "meaning": ""
+  },
+  {
+    "word": "다시",
+    "romanization": "dasi",
+    "meaning": ""
+  },
+  {
+    "word": "너",
+    "romanization": "neo",
+    "meaning": ""
+  },
+  {
+    "word": "좋아",
+    "romanization": "joha",
+    "meaning": ""
+  },
+  {
+    "word": "너무",
+    "romanization": "neomu",
+    "meaning": ""
+  },
+  {
+    "word": "우린",
+    "romanization": "urin",
+    "meaning": ""
+  },
+  {
+    "word": "그건",
+    "romanization": "geugeon",
+    "meaning": ""
+  },
+  {
+    "word": "모든",
+    "romanization": "modeun",
+    "meaning": ""
+  },
+  {
+    "word": "당신",
+    "romanization": "dangsin",
+    "meaning": ""
+  },
+  {
+    "word": "하는",
+    "romanization": "haneun",
+    "meaning": ""
+  },
+  {
+    "word": "나도",
+    "romanization": "nado",
+    "meaning": ""
+  },
+  {
+    "word": "좋은",
+    "romanization": "joheun",
+    "meaning": ""
+  },
+  {
+    "word": "이런",
+    "romanization": "ireon",
+    "meaning": ""
+  },
+  {
+    "word": "응",
+    "romanization": "eung",
+    "meaning": ""
+  },
+  {
+    "word": "이건",
+    "romanization": "igeon",
+    "meaning": ""
+  },
+  {
+    "word": "하고",
+    "romanization": "hago",
+    "meaning": ""
+  },
+  {
+    "word": "때",
+    "romanization": "ttae",
+    "meaning": ""
+  },
+  {
+    "word": "나는",
+    "romanization": "naneun",
+    "meaning": ""
+  },
+  {
+    "word": "뭘",
+    "romanization": "mwol",
+    "meaning": ""
+  },
+  {
+    "word": "같이",
+    "romanization": "gati",
+    "meaning": ""
+  },
+  {
+    "word": "봐",
+    "romanization": "bwa",
+    "meaning": ""
+  },
+  {
+    "word": "또",
+    "romanization": "tto",
+    "meaning": ""
+  },
+  {
+    "word": "아냐",
+    "romanization": "anya",
+    "meaning": ""
+  },
+  {
+    "word": "어서",
+    "romanization": "eoseo",
+    "meaning": ""
+  },
+  {
+    "word": "오늘",
+    "romanization": "oneul",
+    "meaning": ""
+  },
+  {
+    "word": "아주",
+    "romanization": "aju",
+    "meaning": ""
+  },
+  {
+    "word": "오",
+    "romanization": "o",
+    "meaning": ""
+  },
+  {
+    "word": "어",
+    "romanization": "eo",
+    "meaning": ""
+  },
+  {
+    "word": "누가",
+    "romanization": "nuga",
+    "meaning": ""
+  },
+  {
+    "word": "빨리",
+    "romanization": "ppalri",
+    "meaning": ""
+  },
+  {
+    "word": "어떤",
+    "romanization": "eotteon",
+    "meaning": ""
+  },
+  {
+    "word": "알아",
+    "romanization": "ala",
+    "meaning": ""
+  },
+  {
+    "word": "해요",
+    "romanization": "haeyo",
+    "meaning": ""
+  },
+  {
+    "word": "이게",
+    "romanization": "ige",
+    "meaning": ""
+  },
+  {
+    "word": "말",
+    "romanization": "mal",
+    "meaning": ""
+  },
+  {
+    "word": "마",
+    "romanization": "ma",
+    "meaning": ""
+  },
+  {
+    "word": "같은",
+    "romanization": "gateun",
+    "meaning": ""
+  },
+  {
+    "word": "줄",
+    "romanization": "jul",
+    "meaning": ""
+  },
+  {
+    "word": "자",
+    "romanization": "ja",
+    "meaning": ""
+  },
+  {
+    "word": "아직",
+    "romanization": "ajik",
+    "meaning": ""
+  },
+  {
+    "word": "하지",
+    "romanization": "haji",
+    "meaning": ""
+  },
+  {
+    "word": "이거",
+    "romanization": "igeo",
+    "meaning": ""
+  },
+  {
+    "word": "야",
+    "romanization": "ya",
+    "meaning": ""
+  },
+  {
+    "word": "널",
+    "romanization": "neol",
+    "meaning": ""
+  },
+  {
+    "word": "일이",
+    "romanization": "ili",
+    "meaning": ""
+  },
+  {
+    "word": "가",
+    "romanization": "ga",
+    "meaning": ""
+  },
+  {
+    "word": "모두",
+    "romanization": "modu",
+    "meaning": ""
+  },
+  {
+    "word": "알고",
+    "romanization": "algo",
+    "meaning": ""
+  },
+  {
+    "word": "바로",
+    "romanization": "baro",
+    "meaning": ""
+  },
+  {
+    "word": "될",
+    "romanization": "doel",
+    "meaning": ""
+  },
+  {
+    "word": "어디",
+    "romanization": "eodi",
+    "meaning": ""
+  },
+  {
+    "word": "엄마",
+    "romanization": "eomma",
+    "meaning": ""
+  },
+  {
+    "word": "그는",
+    "romanization": "geuneun",
+    "meaning": ""
+  },
+  {
+    "word": "전에",
+    "romanization": "jeone",
+    "meaning": ""
+  },
+  {
+    "word": "진짜",
+    "romanization": "jinjja",
+    "meaning": ""
+  },
+  {
+    "word": "예",
+    "romanization": "ye",
+    "meaning": ""
+  },
+  {
+    "word": "있을",
+    "romanization": "isseul",
+    "meaning": ""
+  },
+  {
+    "word": "위해",
+    "romanization": "wihae",
+    "meaning": ""
+  },
+  {
+    "word": "계속",
+    "romanization": "gyesok",
+    "meaning": ""
+  },
+  {
+    "word": "않아",
+    "romanization": "anha",
+    "meaning": ""
+  },
+  {
+    "word": "사람",
+    "romanization": "saram",
+    "meaning": ""
+  },
+  {
+    "word": "제발",
+    "romanization": "jebal",
+    "meaning": ""
+  },
+  {
+    "word": "안돼",
+    "romanization": "andwae",
+    "meaning": ""
+  },
+  {
+    "word": "두",
+    "romanization": "du",
+    "meaning": ""
+  },
+  {
+    "word": "근데",
+    "romanization": "geunde",
+    "meaning": ""
+  },
+  {
+    "word": "안녕",
+    "romanization": "annyeong",
+    "meaning": ""
+  },
+  {
+    "word": "하나",
+    "romanization": "hana",
+    "meaning": ""
+  },
+  {
+    "word": "몇",
+    "romanization": "myeoch",
+    "meaning": ""
+  },
+  {
+    "word": "거지",
+    "romanization": "geoji",
+    "meaning": ""
+  },
+  {
+    "word": "있지",
+    "romanization": "issji",
+    "meaning": ""
+  },
+  {
+    "word": "수도",
+    "romanization": "sudo",
+    "meaning": ""
+  },
+  {
+    "word": "많이",
+    "romanization": "manhi",
+    "meaning": ""
+  },
+  {
+    "word": "집에",
+    "romanization": "jipe",
+    "meaning": ""
+  },
+  {
+    "word": "아뇨",
+    "romanization": "anyo",
+    "meaning": ""
+  },
+  {
+    "word": "거죠",
+    "romanization": "geojyo",
+    "meaning": ""
+  },
+  {
+    "word": "그걸",
+    "romanization": "geugeol",
+    "meaning": ""
+  },
+  {
+    "word": "없는",
+    "romanization": "eopsneun",
+    "meaning": ""
+  },
+  {
+    "word": "대해",
+    "romanization": "daehae",
+    "meaning": ""
+  },
+  {
+    "word": "그가",
+    "romanization": "geuga",
+    "meaning": ""
+  },
+  {
+    "word": "저기",
+    "romanization": "jeogi",
+    "meaning": ""
+  },
+  {
+    "word": "가서",
+    "romanization": "gaseo",
+    "meaning": ""
+  },
+  {
+    "word": "함께",
+    "romanization": "hamkke",
+    "meaning": ""
+  },
+  {
+    "word": "같아",
+    "romanization": "gata",
+    "meaning": ""
+  },
+  {
+    "word": "아빠",
+    "romanization": "appa",
+    "meaning": ""
+  },
+  {
+    "word": "가자",
+    "romanization": "gaja",
+    "meaning": ""
+  },
+  {
+    "word": "말을",
+    "romanization": "maleul",
+    "meaning": ""
+  },
+  {
+    "word": "했어",
+    "romanization": "haesseo",
+    "meaning": ""
+  },
+  {
+    "word": "와",
+    "romanization": "wa",
+    "meaning": ""
+  },
+  {
+    "word": "가장",
+    "romanization": "gajang",
+    "meaning": ""
+  },
+  {
+    "word": "보고",
+    "romanization": "bogo",
+    "meaning": ""
+  },
+  {
+    "word": "그만",
+    "romanization": "geuman",
+    "meaning": ""
+  },
+  {
+    "word": "참",
+    "romanization": "cham",
+    "meaning": ""
+  },
+  {
+    "word": "돼요",
+    "romanization": "dwaeyo",
+    "meaning": ""
+  },
+  {
+    "word": "항상",
+    "romanization": "hangsang",
+    "meaning": ""
+  },
+  {
+    "word": "일을",
+    "romanization": "ileul",
+    "meaning": ""
+  },
+  {
+    "word": "뭐야",
+    "romanization": "mwoya",
+    "meaning": ""
+  },
+  {
+    "word": "음",
+    "romanization": "eum",
+    "meaning": ""
+  },
+  {
+    "word": "큰",
+    "romanization": "keun",
+    "meaning": ""
+  },
+  {
+    "word": "것도",
+    "romanization": "geosdo",
+    "meaning": ""
+  },
+  {
+    "word": "꼭",
+    "romanization": "kkok",
+    "meaning": ""
+  },
+  {
+    "word": "뭐가",
+    "romanization": "mwoga",
+    "meaning": ""
+  },
+  {
+    "word": "니가",
+    "romanization": "niga",
+    "meaning": ""
+  },
+  {
+    "word": "저는",
+    "romanization": "jeoneun",
+    "meaning": ""
+  },
+  {
+    "word": "일",
+    "romanization": "il",
+    "meaning": ""
+  },
+  {
+    "word": "몰라",
+    "romanization": "molra",
+    "meaning": ""
+  },
+  {
+    "word": "씨",
+    "romanization": "ssi",
+    "meaning": ""
+  },
+  {
+    "word": "만약",
+    "romanization": "manyak",
+    "meaning": ""
+  },
+  {
+    "word": "있고",
+    "romanization": "issgo",
+    "meaning": ""
+  },
+  {
+    "word": "절대",
+    "romanization": "jeoldae",
+    "meaning": ""
+  },
+  {
+    "word": "많은",
+    "romanization": "manheun",
+    "meaning": ""
+  },
+  {
+    "word": "말야",
+    "romanization": "malya",
+    "meaning": ""
+  },
+  {
+    "word": "아무",
+    "romanization": "amu",
+    "meaning": ""
+  },
+  {
+    "word": "그거",
+    "romanization": "geugeo",
+    "meaning": ""
+  },
+  {
+    "word": "하면",
+    "romanization": "hamyeon",
+    "meaning": ""
+  },
+  {
+    "word": "그럴",
+    "romanization": "geureol",
+    "meaning": ""
+  },
+  {
+    "word": "말이",
+    "romanization": "mali",
+    "meaning": ""
+  },
+  {
+    "word": "곧",
+    "romanization": "got",
+    "meaning": ""
+  },
+  {
+    "word": "수가",
+    "romanization": "suga",
+    "meaning": ""
+  },
+  {
+    "word": "말고",
+    "romanization": "malgo",
+    "meaning": ""
+  },
+  {
+    "word": "잠깐",
+    "romanization": "jamkkan",
+    "meaning": ""
+  },
+  {
+    "word": "갈",
+    "romanization": "gal",
+    "meaning": ""
+  },
+  {
+    "word": "맞아",
+    "romanization": "maja",
+    "meaning": ""
+  },
+  {
+    "word": "것을",
+    "romanization": "geoseul",
+    "meaning": ""
+  },
+  {
+    "word": "거기",
+    "romanization": "geogi",
+    "meaning": ""
+  },
+  {
+    "word": "말은",
+    "romanization": "maleun",
+    "meaning": ""
+  },
+  {
+    "word": "이미",
+    "romanization": "imi",
+    "meaning": ""
+  },
+  {
+    "word": "이봐",
+    "romanization": "ibwa",
+    "meaning": ""
+  },
+  {
+    "word": "온",
+    "romanization": "on",
+    "meaning": ""
+  },
+  {
+    "word": "이걸",
+    "romanization": "igeol",
+    "meaning": ""
+  },
+  {
+    "word": "젠장",
+    "romanization": "jenjang",
+    "meaning": ""
+  },
+  {
+    "word": "나를",
+    "romanization": "nareul",
+    "meaning": ""
+  },
+  {
+    "word": "해야",
+    "romanization": "haeya",
+    "meaning": ""
+  },
+  {
+    "word": "한번",
+    "romanization": "hanbeon",
+    "meaning": ""
+  },
+  {
+    "word": "뭔가",
+    "romanization": "mwonga",
+    "meaning": ""
+  },
+  {
+    "word": "않을",
+    "romanization": "anheul",
+    "meaning": ""
+  },
+  {
+    "word": "자기",
+    "romanization": "jagi",
+    "meaning": ""
+  },
+  {
+    "word": "당장",
+    "romanization": "dangjang",
+    "meaning": ""
+  },
+  {
+    "word": "둘",
+    "romanization": "dul",
+    "meaning": ""
+  },
+  {
+    "word": "있다",
+    "romanization": "issda",
+    "meaning": ""
+  },
+  {
+    "word": "대한",
+    "romanization": "daehan",
+    "meaning": ""
+  },
+  {
+    "word": "이젠",
+    "romanization": "ijen",
+    "meaning": ""
+  },
+  {
+    "word": "그를",
+    "romanization": "geureul",
+    "meaning": ""
+  },
+  {
+    "word": "봐요",
+    "romanization": "bwayo",
+    "meaning": ""
+  },
+  {
+    "word": "있죠",
+    "romanization": "issjyo",
+    "meaning": ""
+  },
+  {
+    "word": "아마",
+    "romanization": "ama",
+    "meaning": ""
+  },
+  {
+    "word": "시간",
+    "romanization": "sigan",
+    "meaning": ""
+  },
+  {
+    "word": "여자",
+    "romanization": "yeoja",
+    "meaning": ""
+  },
+  {
+    "word": "전부",
+    "romanization": "jeonbu",
+    "meaning": ""
+  },
+  {
+    "word": "그의",
+    "romanization": "geuui",
+    "meaning": ""
+  },
+  {
+    "word": "여긴",
+    "romanization": "yeogin",
+    "meaning": ""
+  },
+  {
+    "word": "동안",
+    "romanization": "dongan",
+    "meaning": ""
+  },
+  {
+    "word": "됐어",
+    "romanization": "dwaesseo",
+    "meaning": ""
+  },
+  {
+    "word": "먼저",
+    "romanization": "meonjeo",
+    "meaning": ""
+  },
+  {
+    "word": "되는",
+    "romanization": "doeneun",
+    "meaning": ""
+  },
+  {
+    "word": "너도",
+    "romanization": "neodo",
+    "meaning": ""
+  },
+  {
+    "word": "돈",
+    "romanization": "don",
+    "meaning": ""
+  },
+  {
+    "word": "볼",
+    "romanization": "bol",
+    "meaning": ""
+  },
+  {
+    "word": "어때",
+    "romanization": "eottae",
+    "meaning": ""
+  },
+  {
+    "word": "절",
+    "romanization": "jeol",
+    "meaning": ""
+  },
+  {
+    "word": "자네",
+    "romanization": "jane",
+    "meaning": ""
+  },
+  {
+    "word": "된",
+    "romanization": "doen",
+    "meaning": ""
+  },
+  {
+    "word": "번",
+    "romanization": "beon",
+    "meaning": ""
+  },
+  {
+    "word": "저도",
+    "romanization": "jeodo",
+    "meaning": ""
+  },
+  {
+    "word": "들어",
+    "romanization": "deuleo",
+    "meaning": ""
+  },
+  {
+    "word": "얘기",
+    "romanization": "yaegi",
+    "meaning": ""
+  },
+  {
+    "word": "다들",
+    "romanization": "dadeul",
+    "meaning": ""
+  },
+  {
+    "word": "일은",
+    "romanization": "ileun",
+    "meaning": ""
+  },
+  {
+    "word": "남자",
+    "romanization": "namja",
+    "meaning": ""
+  },
+  {
+    "word": "친구",
+    "romanization": "chingu",
+    "meaning": ""
+  },
+  {
+    "word": "이리",
+    "romanization": "iri",
+    "meaning": ""
+  },
+  {
+    "word": "이상",
+    "romanization": "isang",
+    "meaning": ""
+  },
+  {
+    "word": "싶어",
+    "romanization": "sipeo",
+    "meaning": ""
+  },
+  {
+    "word": "줘",
+    "romanization": "jwo",
+    "meaning": ""
+  },
+  {
+    "word": "수술",
+    "romanization": "susul",
+    "meaning": ""
+  },
+  {
+    "word": "본",
+    "romanization": "bon",
+    "meaning": ""
+  },
+  {
+    "word": "물론",
+    "romanization": "mulron",
+    "meaning": ""
+  },
+  {
+    "word": "혼자",
+    "romanization": "honja",
+    "meaning": ""
+  },
+  {
+    "word": "중",
+    "romanization": "jung",
+    "meaning": ""
+  },
+  {
+    "word": "내게",
+    "romanization": "naege",
+    "meaning": ""
+  },
+  {
+    "word": "우릴",
+    "romanization": "uril",
+    "meaning": ""
+  },
+  {
+    "word": "싫어",
+    "romanization": "silheo",
+    "meaning": ""
+  },
+  {
+    "word": "내일",
+    "romanization": "naeil",
+    "meaning": ""
+  },
+  {
+    "word": "안에",
+    "romanization": "ane",
+    "meaning": ""
+  },
+  {
+    "word": "니",
+    "romanization": "ni",
+    "meaning": ""
+  },
+  {
+    "word": "것이",
+    "romanization": "geosi",
+    "meaning": ""
+  },
+  {
+    "word": "가는",
+    "romanization": "ganeun",
+    "meaning": ""
+  },
+  {
+    "word": "나쁜",
+    "romanization": "nappeun",
+    "meaning": ""
+  },
+  {
+    "word": "작은",
+    "romanization": "jakeun",
+    "meaning": ""
+  },
+  {
+    "word": "가지",
+    "romanization": "gaji",
+    "meaning": ""
+  },
+  {
+    "word": "순",
+    "romanization": "sun",
+    "meaning": ""
+  },
+  {
+    "word": "말도",
+    "romanization": "maldo",
+    "meaning": ""
+  },
+  {
+    "word": "것은",
+    "romanization": "geoseun",
+    "meaning": ""
+  },
+  {
+    "word": "사실",
+    "romanization": "sasil",
+    "meaning": ""
+  },
+  {
+    "word": "그저",
+    "romanization": "geujeo",
+    "meaning": ""
+  },
+  {
+    "word": "말해",
+    "romanization": "malhae",
+    "meaning": ""
+  },
+  {
+    "word": "대체",
+    "romanization": "daeche",
+    "meaning": ""
+  },
+  {
+    "word": "있나",
+    "romanization": "issna",
+    "meaning": ""
+  },
+  {
+    "word": "아이",
+    "romanization": "ai",
+    "meaning": ""
+  },
+  {
+    "word": "다음",
+    "romanization": "daeum",
+    "meaning": ""
+  },
+  {
+    "word": "필요",
+    "romanization": "pilyo",
+    "meaning": ""
+  },
+  {
+    "word": "가요",
+    "romanization": "gayo",
+    "meaning": ""
+  },
+  {
+    "word": "완전",
+    "romanization": "wanjeon",
+    "meaning": ""
+  },
+  {
+    "word": "거요",
+    "romanization": "geoyo",
+    "meaning": ""
+  },
+  {
+    "word": "언제",
+    "romanization": "eonje",
+    "meaning": ""
+  },
+  {
+    "word": "전혀",
+    "romanization": "jeonhyeo",
+    "meaning": ""
+  },
+  {
+    "word": "거의",
+    "romanization": "geoui",
+    "meaning": ""
+  },
+  {
+    "word": "아는",
+    "romanization": "aneun",
+    "meaning": ""
+  },
+  {
+    "word": "해도",
+    "romanization": "haedo",
+    "meaning": ""
+  },
+  {
+    "word": "나와",
+    "romanization": "nawa",
+    "meaning": ""
+  },
+  {
+    "word": "적이",
+    "romanization": "jeoki",
+    "meaning": ""
+  },
+  {
+    "word": "알",
+    "romanization": "al",
+    "meaning": ""
+  },
+  {
+    "word": "너는",
+    "romanization": "neoneun",
+    "meaning": ""
+  },
+  {
+    "word": "생각",
+    "romanization": "saenggak",
+    "meaning": ""
+  },
+  {
+    "word": "방금",
+    "romanization": "banggeum",
+    "meaning": ""
+  },
+  {
+    "word": "갖고",
+    "romanization": "gajgo",
+    "meaning": ""
+  },
+  {
+    "word": "벌써",
+    "romanization": "beolsseo",
+    "meaning": ""
+  },
+  {
+    "word": "여보",
+    "romanization": "yeobo",
+    "meaning": ""
+  },
+  {
+    "word": "나랑",
+    "romanization": "narang",
+    "meaning": ""
+  },
+  {
+    "word": "하죠",
+    "romanization": "hajyo",
+    "meaning": ""
+  },
+  {
+    "word": "싶지",
+    "romanization": "sipji",
+    "meaning": ""
+  },
+  {
+    "word": "소리",
+    "romanization": "sori",
+    "meaning": ""
+  },
+  {
+    "word": "없다",
+    "romanization": "eopsda",
+    "meaning": ""
+  },
+  {
+    "word": "적",
+    "romanization": "jeok",
+    "meaning": ""
+  },
+  {
+    "word": "오래",
+    "romanization": "orae",
+    "meaning": ""
+  },
+  {
+    "word": "혹시",
+    "romanization": "hoksi",
+    "meaning": ""
+  },
+  {
+    "word": "조지",
+    "romanization": "joji",
+    "meaning": ""
+  },
+  {
+    "word": "나가",
+    "romanization": "naga",
+    "meaning": ""
+  },
+  {
+    "word": "너희",
+    "romanization": "neohui",
+    "meaning": ""
+  },
+  {
+    "word": "해서",
+    "romanization": "haeseo",
+    "meaning": ""
+  },
+  {
+    "word": "없이",
+    "romanization": "eopsi",
+    "meaning": ""
+  },
+  {
+    "word": "새",
+    "romanization": "sae",
+    "meaning": ""
+  },
+  {
+    "word": "누구",
+    "romanization": "nugu",
+    "meaning": ""
+  },
+  {
+    "word": "환자",
+    "romanization": "hwanja",
+    "meaning": ""
+  },
+  {
+    "word": "부인",
+    "romanization": "buin",
+    "meaning": ""
+  },
+  {
+    "word": "차",
+    "romanization": "cha",
+    "meaning": ""
+  },
+  {
+    "word": "왔어",
+    "romanization": "wasseo",
+    "meaning": ""
+  },
+  {
+    "word": "살",
+    "romanization": "sal",
+    "meaning": ""
+  },
+  {
+    "word": "죽을",
+    "romanization": "jukeul",
+    "meaning": ""
+  },
+  {
+    "word": "밖에",
+    "romanization": "bake",
+    "meaning": ""
+  },
+  {
+    "word": "양",
+    "romanization": "yang",
+    "meaning": ""
+  },
+  {
+    "word": "와서",
+    "romanization": "waseo",
+    "meaning": ""
+  },
+  {
+    "word": "돈을",
+    "romanization": "doneul",
+    "meaning": ""
+  },
+  {
+    "word": "직접",
+    "romanization": "jikjeop",
+    "meaning": ""
+  },
+  {
+    "word": "죽은",
+    "romanization": "jukeun",
+    "meaning": ""
+  },
+  {
+    "word": "알지",
+    "romanization": "alji",
+    "meaning": ""
+  },
+  {
+    "word": "매우",
+    "romanization": "maeu",
+    "meaning": ""
+  },
+  {
+    "word": "올",
+    "romanization": "ol",
+    "meaning": ""
+  },
+  {
+    "word": "글쎄",
+    "romanization": "geulsse",
+    "meaning": ""
+  },
+  {
+    "word": "봤어",
+    "romanization": "bwasseo",
+    "meaning": ""
+  },
+  {
+    "word": "서로",
+    "romanization": "seoro",
+    "meaning": ""
+  },
+  {
+    "word": "짓을",
+    "romanization": "jiseul",
+    "meaning": ""
+  },
+  {
+    "word": "없지",
+    "romanization": "eopsji",
+    "meaning": ""
+  },
+  {
+    "word": "보면",
+    "romanization": "bomyeon",
+    "meaning": ""
+  },
+  {
+    "word": "한다",
+    "romanization": "handa",
+    "meaning": ""
+  },
+  {
+    "word": "왜요",
+    "romanization": "waeyo",
+    "meaning": ""
+  },
+  {
+    "word": "이지",
+    "romanization": "iji",
+    "meaning": ""
+  },
+  {
+    "word": "후",
+    "romanization": "hu",
+    "meaning": ""
+  },
+  {
+    "word": "없고",
+    "romanization": "eopsgo",
+    "meaning": ""
+  },
+  {
+    "word": "단지",
+    "romanization": "danji",
+    "meaning": ""
+  },
+  {
+    "word": "멋진",
+    "romanization": "meosjin",
+    "meaning": ""
+  },
+  {
+    "word": "않고",
+    "romanization": "anhgo",
+    "meaning": ""
+  },
+  {
+    "word": "지난",
+    "romanization": "jinan",
+    "meaning": ""
+  },
+  {
+    "word": "밤",
+    "romanization": "bam",
+    "meaning": ""
+  },
+  {
+    "word": "나의",
+    "romanization": "naui",
+    "meaning": ""
+  },
+  {
+    "word": "조금",
+    "romanization": "jogeum",
+    "meaning": ""
+  },
+  {
+    "word": "싶은",
+    "romanization": "sipeun",
+    "meaning": ""
+  },
+  {
+    "word": "신경",
+    "romanization": "singyeong",
+    "meaning": ""
+  },
+  {
+    "word": "했지",
+    "romanization": "haessji",
+    "meaning": ""
+  },
+  {
+    "word": "아닌",
+    "romanization": "anin",
+    "meaning": ""
+  },
+  {
+    "word": "제일",
+    "romanization": "jeil",
+    "meaning": ""
+  },
+  {
+    "word": "가고",
+    "romanization": "gago",
+    "meaning": ""
+  },
+  {
+    "word": "위한",
+    "romanization": "wihan",
+    "meaning": ""
+  },
+  {
+    "word": "어느",
+    "romanization": "eoneu",
+    "meaning": ""
+  },
+  {
+    "word": "없을",
+    "romanization": "eopseul",
+    "meaning": ""
+  },
+  {
+    "word": "되면",
+    "romanization": "doemyeon",
+    "meaning": ""
+  },
+  {
+    "word": "않는",
+    "romanization": "anhneun",
+    "meaning": ""
+  },
+  {
+    "word": "거다",
+    "romanization": "geoda",
+    "meaning": ""
+  },
+  {
+    "word": "전화",
+    "romanization": "jeonhwa",
+    "meaning": ""
+  },
+  {
+    "word": "꽤",
+    "romanization": "kkwae",
+    "meaning": ""
+  },
+  {
+    "word": "먹고",
+    "romanization": "meokgo",
+    "meaning": ""
+  },
+  {
+    "word": "집",
+    "romanization": "jip",
+    "meaning": ""
+  },
+  {
+    "word": "보여",
+    "romanization": "boyeo",
+    "meaning": ""
+  },
+  {
+    "word": "않은",
+    "romanization": "anheun",
+    "meaning": ""
+  },
+  {
+    "word": "미안",
+    "romanization": "mian",
+    "meaning": ""
+  },
+  {
+    "word": "이번",
+    "romanization": "ibeon",
+    "meaning": ""
+  },
+  {
+    "word": "술",
+    "romanization": "sul",
+    "meaning": ""
+  },
+  {
+    "word": "보자",
+    "romanization": "boja",
+    "meaning": ""
+  },
+  {
+    "word": "��러나",
+    "romanization": "��reona",
+    "meaning": ""
+  },
+  {
+    "word": "되지",
+    "romanization": "doeji",
+    "meaning": ""
+  },
+  {
+    "word": "별로",
+    "romanization": "byeolro",
+    "meaning": ""
+  },
+  {
+    "word": "손",
+    "romanization": "son",
+    "meaning": ""
+  },
+  {
+    "word": "사는",
+    "romanization": "saneun",
+    "meaning": ""
+  },
+  {
+    "word": "되고",
+    "romanization": "doego",
+    "meaning": ""
+  },
+  {
+    "word": "세",
+    "romanization": "se",
+    "meaning": ""
+  },
+  {
+    "word": "딱",
+    "romanization": "ttak",
+    "meaning": ""
+  },
+  {
+    "word": "결국",
+    "romanization": "gyeolguk",
+    "meaning": ""
+  },
+  {
+    "word": "얘",
+    "romanization": "yae",
+    "meaning": ""
+  },
+  {
+    "word": "지",
+    "romanization": "ji",
+    "meaning": ""
+  },
+  {
+    "word": "아침",
+    "romanization": "achim",
+    "meaning": ""
+  },
+  {
+    "word": "손을",
+    "romanization": "soneul",
+    "meaning": ""
+  },
+  {
+    "word": "첫",
+    "romanization": "cheos",
+    "meaning": ""
+  },
+  {
+    "word": "듣고",
+    "romanization": "deutgo",
+    "meaning": ""
+  },
+  {
+    "word": "처음",
+    "romanization": "cheoeum",
+    "meaning": ""
+  },
+  {
+    "word": "말할",
+    "romanization": "malhal",
+    "meaning": ""
+  },
+  {
+    "word": "땐",
+    "romanization": "ttaen",
+    "meaning": ""
+  },
+  {
+    "word": "텐데",
+    "romanization": "tende",
+    "meaning": ""
+  },
+  {
+    "word": "대신",
+    "romanization": "daesin",
+    "meaning": ""
+  },
+  {
+    "word": "놈이",
+    "romanization": "nomi",
+    "meaning": ""
+  },
+  {
+    "word": "있게",
+    "romanization": "issge",
+    "meaning": ""
+  },
+  {
+    "word": "걱정",
+    "romanization": "geokjeong",
+    "meaning": ""
+  },
+  {
+    "word": "라고",
+    "romanization": "rago",
+    "meaning": ""
+  },
+  {
+    "word": "수는",
+    "romanization": "suneun",
+    "meaning": ""
+  },
+  {
+    "word": "오빠",
+    "romanization": "oppa",
+    "meaning": ""
+  },
+  {
+    "word": "가야",
+    "romanization": "gaya",
+    "meaning": ""
+  },
+  {
+    "word": "했죠",
+    "romanization": "haessjyo",
+    "meaning": ""
+  },
+  {
+    "word": "너의",
+    "romanization": "neoui",
+    "meaning": ""
+  },
+  {
+    "word": "훨씬",
+    "romanization": "hwolssin",
+    "meaning": ""
+  },
+  {
+    "word": "너를",
+    "romanization": "neoreul",
+    "meaning": ""
+  },
+  {
+    "word": "건데",
+    "romanization": "geonde",
+    "meaning": ""
+  },
+  {
+    "word": "후에",
+    "romanization": "hue",
+    "meaning": ""
+  },
+  {
+    "word": "못해",
+    "romanization": "moshae",
+    "meaning": ""
+  },
+  {
+    "word": "데",
+    "romanization": "de",
+    "meaning": ""
+  },
+  {
+    "word": "놈",
+    "romanization": "nom",
+    "meaning": ""
+  },
+  {
+    "word": "두고",
+    "romanization": "dugo",
+    "meaning": ""
+  },
+  {
+    "word": "그때",
+    "romanization": "geuttae",
+    "meaning": ""
+  },
+  {
+    "word": "자넨",
+    "romanization": "janen",
+    "meaning": ""
+  },
+  {
+    "word": "가면",
+    "romanization": "gamyeon",
+    "meaning": ""
+  },
+  {
+    "word": "보는",
+    "romanization": "boneun",
+    "meaning": ""
+  },
+  {
+    "word": "매일",
+    "romanization": "maeil",
+    "meaning": ""
+  },
+  {
+    "word": "년",
+    "romanization": "nyeon",
+    "meaning": ""
+  },
+  {
+    "word": "뭔지",
+    "romanization": "mwonji",
+    "meaning": ""
+  },
+  {
+    "word": "뒤에",
+    "romanization": "dwie",
+    "meaning": ""
+  },
+  {
+    "word": "씨발",
+    "romanization": "ssibal",
+    "meaning": ""
+  },
+  {
+    "word": "금방",
+    "romanization": "geumbang",
+    "meaning": ""
+  },
+  {
+    "word": "잡아",
+    "romanization": "japa",
+    "meaning": ""
+  },
+  {
+    "word": "살아",
+    "romanization": "sala",
+    "meaning": ""
+  },
+  {
+    "word": "가진",
+    "romanization": "gajin",
+    "meaning": ""
+  },
+  {
+    "word": "있네",
+    "romanization": "issne",
+    "meaning": ""
+  },
+  {
+    "word": "하게",
+    "romanization": "hage",
+    "meaning": ""
+  },
+  {
+    "word": "엄청",
+    "romanization": "eomcheong",
+    "meaning": ""
+  },
+  {
+    "word": "너랑",
+    "romanization": "neorang",
+    "meaning": ""
+  },
+  {
+    "word": "건가",
+    "romanization": "geonga",
+    "meaning": ""
+  },
+  {
+    "word": "둘이",
+    "romanization": "duli",
+    "meaning": ""
+  },
+  {
+    "word": "보지",
+    "romanization": "boji",
+    "meaning": ""
+  },
+  {
+    "word": "미친",
+    "romanization": "michin",
+    "meaning": ""
+  },
+  {
+    "word": "어제",
+    "romanization": "eoje",
+    "meaning": ""
+  },
+  {
+    "word": "해봐",
+    "romanization": "haebwa",
+    "meaning": ""
+  },
+  {
+    "word": "따라",
+    "romanization": "ttara",
+    "meaning": ""
+  },
+  {
+    "word": "마치",
+    "romanization": "machi",
+    "meaning": ""
+  },
+  {
+    "word": "는",
+    "romanization": "neun",
+    "meaning": ""
+  },
+  {
+    "word": "막",
+    "romanization": "mak",
+    "meaning": ""
+  },
+  {
+    "word": "너가",
+    "romanization": "neoga",
+    "meaning": ""
+  },
+  {
+    "word": "저를",
+    "romanization": "jeoreul",
+    "meaning": ""
+  },
+  {
+    "word": "존",
+    "romanization": "jon",
+    "meaning": ""
+  },
+  {
+    "word": "문",
+    "romanization": "mun",
+    "meaning": ""
+  },
+  {
+    "word": "중에",
+    "romanization": "junge",
+    "meaning": ""
+  },
+  {
+    "word": "놔",
+    "romanization": "nwa",
+    "meaning": ""
+  },
+  {
+    "word": "알게",
+    "romanization": "alge",
+    "meaning": ""
+  },
+  {
+    "word": "때가",
+    "romanization": "ttaega",
+    "meaning": ""
+  },
+  {
+    "word": "서",
+    "romanization": "seo",
+    "meaning": ""
+  },
+  {
+    "word": "어이",
+    "romanization": "eoi",
+    "meaning": ""
+  },
+  {
+    "word": "앉아",
+    "romanization": "anja",
+    "meaning": ""
+  },
+  {
+    "word": "사랑",
+    "romanization": "sarang",
+    "meaning": ""
+  },
+  {
+    "word": "애가",
+    "romanization": "aega",
+    "meaning": ""
+  },
+  {
+    "word": "살고",
+    "romanization": "salgo",
+    "meaning": ""
+  },
+  {
+    "word": "준비",
+    "romanization": "junbi",
+    "meaning": ""
+  },
+  {
+    "word": "일단",
+    "romanization": "ildan",
+    "meaning": ""
+  },
+  {
+    "word": "잘못",
+    "romanization": "jalmos",
+    "meaning": ""
+  },
+  {
+    "word": "저녁",
+    "romanization": "jeonyeok",
+    "meaning": ""
+  },
+  {
+    "word": "대로",
+    "romanization": "daero",
+    "meaning": ""
+  },
+  {
+    "word": "있소",
+    "romanization": "issso",
+    "meaning": ""
+  },
+  {
+    "word": "죽일",
+    "romanization": "jukil",
+    "meaning": ""
+  },
+  {
+    "word": "타고",
+    "romanization": "tago",
+    "meaning": ""
+  },
+  {
+    "word": "좋지",
+    "romanization": "johji",
+    "meaning": ""
+  },
+  {
+    "word": "눈을",
+    "romanization": "nuneul",
+    "meaning": ""
+  },
+  {
+    "word": "찾고",
+    "romanization": "chajgo",
+    "meaning": ""
+  },
+  {
+    "word": "뭐지",
+    "romanization": "mwoji",
+    "meaning": ""
+  },
+  {
+    "word": "데릭",
+    "romanization": "derik",
+    "meaning": ""
+  },
+  {
+    "word": "늘",
+    "romanization": "neul",
+    "meaning": ""
+  },
+  {
+    "word": "거고",
+    "romanization": "geogo",
+    "meaning": ""
+  },
+  {
+    "word": "머리",
+    "romanization": "meori",
+    "meaning": ""
+  },
+  {
+    "word": "없죠",
+    "romanization": "eopsjyo",
+    "meaning": ""
+  },
+  {
+    "word": "형",
+    "romanization": "hyeong",
+    "meaning": ""
+  },
+  {
+    "word": "눈",
+    "romanization": "nun",
+    "meaning": ""
+  },
+  {
+    "word": "애",
+    "romanization": "ae",
+    "meaning": ""
+  },
+  {
+    "word": "원래",
+    "romanization": "wonrae",
+    "meaning": ""
+  },
+  {
+    "word": "뭔",
+    "romanization": "mwon",
+    "meaning": ""
+  },
+  {
+    "word": "뭔데",
+    "romanization": "mwonde",
+    "meaning": ""
+  },
+  {
+    "word": "길을",
+    "romanization": "gileul",
+    "meaning": ""
+  },
+  {
+    "word": "찾을",
+    "romanization": "chajeul",
+    "meaning": ""
+  },
+  {
+    "word": "입",
+    "romanization": "ip",
+    "meaning": ""
+  },
+  {
+    "word": "뭐죠",
+    "romanization": "mwojyo",
+    "meaning": ""
+  },
+  {
+    "word": "잠시",
+    "romanization": "jamsi",
+    "meaning": ""
+  },
+  {
+    "word": "가끔",
+    "romanization": "gakkeum",
+    "meaning": ""
+  },
+  {
+    "word": "일도",
+    "romanization": "ildo",
+    "meaning": ""
+  },
+  {
+    "word": "뭐요",
+    "romanization": "mwoyo",
+    "meaning": ""
+  },
+  {
+    "word": "밥",
+    "romanization": "bap",
+    "meaning": ""
+  },
+  {
+    "word": "여길",
+    "romanization": "yeogil",
+    "meaning": ""
+  },
+  {
+    "word": "요즘",
+    "romanization": "yojeum",
+    "meaning": ""
+  },
+  {
+    "word": "이것",
+    "romanization": "igeos",
+    "meaning": ""
+  },
+  {
+    "word": "줘요",
+    "romanization": "jwoyo",
+    "meaning": ""
+  },
+  {
+    "word": "저희",
+    "romanization": "jeohui",
+    "meaning": ""
+  },
+  {
+    "word": "오는",
+    "romanization": "oneun",
+    "meaning": ""
+  },
+  {
+    "word": "물",
+    "romanization": "mul",
+    "meaning": ""
+  },
+  {
+    "word": "마라",
+    "romanization": "mara",
+    "meaning": ""
+  },
+  {
+    "word": "있던",
+    "romanization": "issdeon",
+    "meaning": ""
+  },
+  {
+    "word": "밤에",
+    "romanization": "bame",
+    "meaning": ""
+  },
+  {
+    "word": "정신",
+    "romanization": "jeongsin",
+    "meaning": ""
+  },
+  {
+    "word": "망할",
+    "romanization": "manghal",
+    "meaning": ""
+  },
+  {
+    "word": "문을",
+    "romanization": "muneul",
+    "meaning": ""
+  },
+  {
+    "word": "에",
+    "romanization": "e",
+    "meaning": ""
+  },
+  {
+    "word": "하루",
+    "romanization": "haru",
+    "meaning": ""
+  },
+  {
+    "word": "아까",
+    "romanization": "akka",
+    "meaning": ""
+  },
+  {
+    "word": "옆에",
+    "romanization": "yeope",
+    "meaning": ""
+  },
+  {
+    "word": "아님",
+    "romanization": "anim",
+    "meaning": ""
+  },
+  {
+    "word": "임마",
+    "romanization": "imma",
+    "meaning": ""
+  },
+  {
+    "word": "위에",
+    "romanization": "wie",
+    "meaning": ""
+  },
+  {
+    "word": "걸로",
+    "romanization": "geolro",
+    "meaning": ""
+  },
+  {
+    "word": "테니",
+    "romanization": "teni",
+    "meaning": ""
+  },
+  {
+    "word": "분",
+    "romanization": "bun",
+    "meaning": ""
+  },
+  {
+    "word": "찾아",
+    "romanization": "chaja",
+    "meaning": ""
+  },
+  {
+    "word": "믿을",
+    "romanization": "miteul",
+    "meaning": ""
+  },
+  {
+    "word": "못할",
+    "romanization": "moshal",
+    "meaning": ""
+  },
+  {
+    "word": "아들",
+    "romanization": "adeul",
+    "meaning": ""
+  },
+  {
+    "word": "앞에",
+    "romanization": "ape",
+    "meaning": ""
+  },
+  {
+    "word": "속에",
+    "romanization": "soke",
+    "meaning": ""
+  },
+  {
+    "word": "이럴",
+    "romanization": "ireol",
+    "meaning": ""
+  },
+  {
+    "word": "피터",
+    "romanization": "piteo",
+    "meaning": ""
+  },
+  {
+    "word": "잔",
+    "romanization": "jan",
+    "meaning": ""
+  },
+  {
+    "word": "집을",
+    "romanization": "jipeul",
+    "meaning": ""
+  },
+  {
+    "word": "차를",
+    "romanization": "chareul",
+    "meaning": ""
+  },
+  {
+    "word": "남은",
+    "romanization": "nameun",
+    "meaning": ""
+  },
+  {
+    "word": "버크",
+    "romanization": "beokeu",
+    "meaning": ""
+  },
+  {
+    "word": "들고",
+    "romanization": "deulgo",
+    "meaning": ""
+  },
+  {
+    "word": "자식",
+    "romanization": "jasik",
+    "meaning": ""
+  },
+  {
+    "word": "간다",
+    "romanization": "ganda",
+    "meaning": ""
+  },
+  {
+    "word": "좋을",
+    "romanization": "joheul",
+    "meaning": ""
+  },
+  {
+    "word": "주고",
+    "romanization": "jugo",
+    "meaning": ""
+  },
+  {
+    "word": "가게",
+    "romanization": "gage",
+    "meaning": ""
+  },
+  {
+    "word": "정도",
+    "romanization": "jeongdo",
+    "meaning": ""
+  },
+  {
+    "word": "힘을",
+    "romanization": "himeul",
+    "meaning": ""
+  },
+  {
+    "word": "바보",
+    "romanization": "babo",
+    "meaning": ""
+  },
+  {
+    "word": "기분",
+    "romanization": "gibun",
+    "meaning": ""
+  },
+  {
+    "word": "��네요",
+    "romanization": "��neyo",
+    "meaning": ""
+  },
+  {
+    "word": "새끼",
+    "romanization": "saekki",
+    "meaning": ""
+  },
+  {
+    "word": "의사",
+    "romanization": "uisa",
+    "meaning": ""
+  },
+  {
+    "word": "저런",
+    "romanization": "jeoreon",
+    "meaning": ""
+  },
+  {
+    "word": "단",
+    "romanization": "dan",
+    "meaning": ""
+  },
+  {
+    "word": "의",
+    "romanization": "ui",
+    "meaning": ""
+  },
+  {
+    "word": "평생",
+    "romanization": "pyeongsaeng",
+    "meaning": ""
+  },
+  {
+    "word": "했다",
+    "romanization": "haessda",
+    "meaning": ""
+  },
+  {
+    "word": "번째",
+    "romanization": "beonjjae",
+    "meaning": ""
+  },
+  {
+    "word": "하자",
+    "romanization": "haja",
+    "meaning": ""
+  },
+  {
+    "word": "먹어",
+    "romanization": "meokeo",
+    "meaning": ""
+  },
+  {
+    "word": "받아",
+    "romanization": "bata",
+    "meaning": ""
+  },
+  {
+    "word": "간",
+    "romanization": "gan",
+    "meaning": ""
+  },
+  {
+    "word": "만든",
+    "romanization": "mandeun",
+    "meaning": ""
+  },
+  {
+    "word": "입고",
+    "romanization": "ipgo",
+    "meaning": ""
+  },
+  {
+    "word": "언니",
+    "romanization": "eonni",
+    "meaning": ""
+  },
+  {
+    "word": "돈이",
+    "romanization": "doni",
+    "meaning": ""
+  },
+  {
+    "word": "받고",
+    "romanization": "batgo",
+    "meaning": ""
+  },
+  {
+    "word": "먹을",
+    "romanization": "meokeul",
+    "meaning": ""
+  },
+  {
+    "word": "총",
+    "romanization": "chong",
+    "meaning": ""
+  },
+  {
+    "word": "개",
+    "romanization": "gae",
+    "meaning": ""
+  },
+  {
+    "word": "얘길",
+    "romanization": "yaegil",
+    "meaning": ""
+  },
+  {
+    "word": "별",
+    "romanization": "byeol",
+    "meaning": ""
+  },
+  {
+    "word": "되죠",
+    "romanization": "doejyo",
+    "meaning": ""
+  },
+  {
+    "word": "만큼",
+    "romanization": "mankeum",
+    "meaning": ""
+  },
+  {
+    "word": "맞지",
+    "romanization": "majji",
+    "meaning": ""
+  },
+  {
+    "word": "를",
+    "romanization": "reul",
+    "meaning": ""
+  },
+  {
+    "word": "준",
+    "romanization": "jun",
+    "meaning": ""
+  },
+  {
+    "word": "있니",
+    "romanization": "issni",
+    "meaning": ""
+  },
+  {
+    "word": "애들",
+    "romanization": "aedeul",
+    "meaning": ""
+  },
+  {
+    "word": "역시",
+    "romanization": "yeoksi",
+    "meaning": ""
+  },
+  {
+    "word": "원",
+    "romanization": "won",
+    "meaning": ""
+  },
+  {
+    "word": "말씀",
+    "romanization": "malsseum",
+    "meaning": ""
+  },
+  {
+    "word": "주",
+    "romanization": "ju",
+    "meaning": ""
+  },
+  {
+    "word": "딴",
+    "romanization": "ttan",
+    "meaning": ""
+  },
+  {
+    "word": "죽어",
+    "romanization": "jukeo",
+    "meaning": ""
+  },
+  {
+    "word": "결혼",
+    "romanization": "gyeolhon",
+    "meaning": ""
+  },
+  {
+    "word": "애를",
+    "romanization": "aereul",
+    "meaning": ""
+  },
+  {
+    "word": "했던",
+    "romanization": "haessdeon",
+    "meaning": ""
+  },
+  {
+    "word": "총을",
+    "romanization": "chongeul",
+    "meaning": ""
+  },
+  {
+    "word": "나야",
+    "romanization": "naya",
+    "meaning": ""
+  },
+  {
+    "word": "얘야",
+    "romanization": "yaeya",
+    "meaning": ""
+  },
+  {
+    "word": "곳에",
+    "romanization": "gose",
+    "meaning": ""
+  },
+  {
+    "word": "보게",
+    "romanization": "boge",
+    "meaning": ""
+  },
+  {
+    "word": "일에",
+    "romanization": "ile",
+    "meaning": ""
+  },
+  {
+    "word": "손에",
+    "romanization": "sone",
+    "meaning": ""
+  },
+  {
+    "word": "저게",
+    "romanization": "jeoge",
+    "meaning": ""
+  },
+  {
+    "word": "약",
+    "romanization": "yak",
+    "meaning": ""
+  },
+  {
+    "word": "꿈을",
+    "romanization": "kkumeul",
+    "meaning": ""
+  },
+  {
+    "word": "된다",
+    "romanization": "doenda",
+    "meaning": ""
+  },
+  {
+    "word": "걔가",
+    "romanization": "gyaega",
+    "meaning": ""
+  },
+  {
+    "word": "오면",
+    "romanization": "omyeon",
+    "meaning": ""
+  },
+  {
+    "word": "멀리",
+    "romanization": "meolri",
+    "meaning": ""
+  },
+  {
+    "word": "그리",
+    "romanization": "geuri",
+    "meaning": ""
+  },
+  {
+    "word": "자꾸",
+    "romanization": "jakku",
+    "meaning": ""
+  },
+  {
+    "word": "뒤로",
+    "romanization": "dwiro",
+    "meaning": ""
+  },
+  {
+    "word": "문제",
+    "romanization": "munje",
+    "meaning": ""
+  },
+  {
+    "word": "할까",
+    "romanization": "halkka",
+    "meaning": ""
+  },
+  {
+    "word": "잡고",
+    "romanization": "japgo",
+    "meaning": ""
+  },
+  {
+    "word": "맘에",
+    "romanization": "mame",
+    "meaning": ""
+  },
+  {
+    "word": "얼마",
+    "romanization": "eolma",
+    "meaning": ""
+  },
+  {
+    "word": "옷",
+    "romanization": "os",
+    "meaning": ""
+  },
+  {
+    "word": "어린",
+    "romanization": "eorin",
+    "meaning": ""
+  },
+  {
+    "word": "받을",
+    "romanization": "bateul",
+    "meaning": ""
+  },
+  {
+    "word": "걔",
+    "romanization": "gyae",
+    "meaning": ""
+  },
+  {
+    "word": "셋",
+    "romanization": "ses",
+    "meaning": ""
+  },
+  {
+    "word": "죽는",
+    "romanization": "jukneun",
+    "meaning": ""
+  },
+  {
+    "word": "분명",
+    "romanization": "bunmyeong",
+    "meaning": ""
+  },
+  {
+    "word": "하기",
+    "romanization": "hagi",
+    "meaning": ""
+  },
+  {
+    "word": "관한",
+    "romanization": "gwanhan",
+    "meaning": ""
+  },
+  {
+    "word": "제게",
+    "romanization": "jege",
+    "meaning": ""
+  },
+  {
+    "word": "와요",
+    "romanization": "wayo",
+    "meaning": ""
+  },
+  {
+    "word": "얼른",
+    "romanization": "eolreun",
+    "meaning": ""
+  },
+  {
+    "word": "삶을",
+    "romanization": "salmeul",
+    "meaning": ""
+  },
+  {
+    "word": "주는",
+    "romanization": "juneun",
+    "meaning": ""
+  },
+  {
+    "word": "만들",
+    "romanization": "mandeul",
+    "meaning": ""
+  },
+  {
+    "word": "한잔",
+    "romanization": "hanjan",
+    "meaning": ""
+  },
+  {
+    "word": "병원",
+    "romanization": "byeongwon",
+    "meaning": ""
+  },
+  {
+    "word": "점점",
+    "romanization": "jeomjeom",
+    "meaning": ""
+  },
+  {
+    "word": "죽인",
+    "romanization": "jukin",
+    "meaning": ""
+  },
+  {
+    "word": "꽉",
+    "romanization": "kkwak",
+    "meaning": ""
+  },
+  {
+    "word": "보니",
+    "romanization": "boni",
+    "meaning": ""
+  },
+  {
+    "word": "갈게",
+    "romanization": "galge",
+    "meaning": ""
+  },
+  {
+    "word": "멈춰",
+    "romanization": "meomchwo",
+    "meaning": ""
+  },
+  {
+    "word": "보러",
+    "romanization": "boreo",
+    "meaning": ""
+  },
+  {
+    "word": "어딜",
+    "romanization": "eodil",
+    "meaning": ""
+  },
+  {
+    "word": "쓸",
+    "romanization": "sseul",
+    "meaning": ""
+  },
+  {
+    "word": "너와",
+    "romanization": "neowa",
+    "meaning": ""
+  },
+  {
+    "word": "비켜",
+    "romanization": "bikyeo",
+    "meaning": ""
+  },
+  {
+    "word": "방에",
+    "romanization": "bange",
+    "meaning": ""
+  },
+  {
+    "word": "일찍",
+    "romanization": "iljjik",
+    "meaning": ""
+  },
+  {
+    "word": "오고",
+    "romanization": "ogo",
+    "meaning": ""
+  },
+  {
+    "word": "되어",
+    "romanization": "doeeo",
+    "meaning": ""
+  },
+  {
+    "word": "말한",
+    "romanization": "malhan",
+    "meaning": ""
+  },
+  {
+    "word": "할지",
+    "romanization": "halji",
+    "meaning": ""
+  },
+  {
+    "word": "없네",
+    "romanization": "eopsne",
+    "meaning": ""
+  },
+  {
+    "word": "봐라",
+    "romanization": "bwara",
+    "meaning": ""
+  },
+  {
+    "word": "몸이",
+    "romanization": "momi",
+    "meaning": ""
+  },
+  {
+    "word": "오지",
+    "romanization": "oji",
+    "meaning": ""
+  },
+  {
+    "word": "알죠",
+    "romanization": "aljyo",
+    "meaning": ""
+  },
+  {
+    "word": "보내",
+    "romanization": "bonae",
+    "meaning": ""
+  },
+  {
+    "word": "닥쳐",
+    "romanization": "dakchyeo",
+    "meaning": ""
+  },
+  {
+    "word": "힘든",
+    "romanization": "himdeun",
+    "meaning": ""
+  },
+  {
+    "word": "학교",
+    "romanization": "hakgyo",
+    "meaning": ""
+  },
+  {
+    "word": "거라",
+    "romanization": "geora",
+    "meaning": ""
+  },
+  {
+    "word": "크게",
+    "romanization": "keuge",
+    "meaning": ""
+  },
+  {
+    "word": "치프",
+    "romanization": "chipeu",
+    "meaning": ""
+  },
+  {
+    "word": "놈을",
+    "romanization": "nomeul",
+    "meaning": ""
+  },
+  {
+    "word": "커피",
+    "romanization": "keopi",
+    "meaning": ""
+  },
+  {
+    "word": "아기",
+    "romanization": "agi",
+    "meaning": ""
+  },
+  {
+    "word": "짐",
+    "romanization": "jim",
+    "meaning": ""
+  },
+  {
+    "word": "통해",
+    "romanization": "tonghae",
+    "meaning": ""
+  },
+  {
+    "word": "뭐든",
+    "romanization": "mwodeun",
+    "meaning": ""
+  },
+  {
+    "word": "걸요",
+    "romanization": "geolyo",
+    "meaning": ""
+  },
+  {
+    "word": "마요",
+    "romanization": "mayo",
+    "meaning": ""
+  },
+  {
+    "word": "줄게",
+    "romanization": "julge",
+    "meaning": ""
+  },
+  {
+    "word": "그것",
+    "romanization": "geugeos",
+    "meaning": ""
+  },
+  {
+    "word": "죽게",
+    "romanization": "jukge",
+    "meaning": ""
+  },
+  {
+    "word": "이름",
+    "romanization": "ireum",
+    "meaning": ""
+  },
+  {
+    "word": "자주",
+    "romanization": "jaju",
+    "meaning": ""
+  },
+  {
+    "word": "주지",
+    "romanization": "juji",
+    "meaning": ""
+  },
+  {
+    "word": "을",
+    "romanization": "eul",
+    "meaning": ""
+  },
+  {
+    "word": "저리",
+    "romanization": "jeori",
+    "meaning": ""
+  },
+  {
+    "word": "이래",
+    "romanization": "irae",
+    "meaning": ""
+  },
+  {
+    "word": "심장",
+    "romanization": "simjang",
+    "meaning": ""
+  },
+  {
+    "word": "달",
+    "romanization": "dal",
+    "meaning": ""
+  },
+  {
+    "word": "자는",
+    "romanization": "janeun",
+    "meaning": ""
+  },
+  {
+    "word": "눈이",
+    "romanization": "nuni",
+    "meaning": ""
+  },
+  {
+    "word": "젊은",
+    "romanization": "jeolmeun",
+    "meaning": ""
+  },
+  {
+    "word": "떠날",
+    "romanization": "tteonal",
+    "meaning": ""
+  },
+  {
+    "word": "열",
+    "romanization": "yeol",
+    "meaning": ""
+  },
+  {
+    "word": "내려",
+    "romanization": "naeryeo",
+    "meaning": ""
+  },
+  {
+    "word": "피를",
+    "romanization": "pireul",
+    "meaning": ""
+  },
+  {
+    "word": "어쩔",
+    "romanization": "eojjeol",
+    "meaning": ""
+  },
+  {
+    "word": "불러",
+    "romanization": "bulreo",
+    "meaning": ""
+  },
+  {
+    "word": "요",
+    "romanization": "yo",
+    "meaning": ""
+  },
+  {
+    "word": "믿지",
+    "romanization": "mitji",
+    "meaning": ""
+  },
+  {
+    "word": "형님",
+    "romanization": "hyeongnim",
+    "meaning": ""
+  },
+  {
+    "word": "걘",
+    "romanization": "gyaen",
+    "meaning": ""
+  },
+  {
+    "word": "자고",
+    "romanization": "jago",
+    "meaning": ""
+  },
+  {
+    "word": "분이",
+    "romanization": "buni",
+    "meaning": ""
+  },
+  {
+    "word": "또한",
+    "romanization": "ttohan",
+    "meaning": ""
+  },
+  {
+    "word": "저거",
+    "romanization": "jeogeo",
+    "meaning": ""
+  },
+  {
+    "word": "쉽게",
+    "romanization": "swipge",
+    "meaning": ""
+  },
+  {
+    "word": "경찰",
+    "romanization": "gyeongchal",
+    "meaning": ""
+  },
+  {
+    "word": "약간",
+    "romanization": "yakgan",
+    "meaning": ""
+  },
+  {
+    "word": "찾는",
+    "romanization": "chajneun",
+    "meaning": ""
+  },
+  {
+    "word": "노래",
+    "romanization": "norae",
+    "meaning": ""
+  },
+  {
+    "word": "갔다",
+    "romanization": "gassda",
+    "meaning": ""
+  },
+  {
+    "word": "누굴",
+    "romanization": "nugul",
+    "meaning": ""
+  },
+  {
+    "word": "못한",
+    "romanization": "moshan",
+    "meaning": ""
+  },
+  {
+    "word": "겨우",
+    "romanization": "gyeou",
+    "meaning": ""
+  },
+  {
+    "word": "나서",
+    "romanization": "naseo",
+    "meaning": ""
+  },
+  {
+    "word": "다섯",
+    "romanization": "daseos",
+    "meaning": ""
+  },
+  {
+    "word": "건지",
+    "romanization": "geonji",
+    "meaning": ""
+  },
+  {
+    "word": "왔다",
+    "romanization": "wassda",
+    "meaning": ""
+  },
+  {
+    "word": "차에",
+    "romanization": "chae",
+    "meaning": ""
+  },
+  {
+    "word": "할게",
+    "romanization": "halge",
+    "meaning": ""
+  },
+  {
+    "word": "만날",
+    "romanization": "mannal",
+    "meaning": ""
+  },
+  {
+    "word": "가만",
+    "romanization": "gaman",
+    "meaning": ""
+  },
+  {
+    "word": "새로",
+    "romanization": "saero",
+    "meaning": ""
+  },
+  {
+    "word": "수정",
+    "romanization": "sujeong",
+    "meaning": ""
+  },
+  {
+    "word": "만한",
+    "romanization": "manhan",
+    "meaning": ""
+  },
+  {
+    "word": "믿어",
+    "romanization": "miteo",
+    "meaning": ""
+  },
+  {
+    "word": "않게",
+    "romanization": "anhge",
+    "meaning": ""
+  },
+  {
+    "word": "때는",
+    "romanization": "ttaeneun",
+    "meaning": ""
+  },
+  {
+    "word": "때도",
+    "romanization": "ttaedo",
+    "meaning": ""
+  },
+  {
+    "word": "다신",
+    "romanization": "dasin",
+    "meaning": ""
+  },
+  {
+    "word": "��져",
+    "romanization": "��jyeo",
+    "meaning": ""
+  },
+  {
+    "word": "놈은",
+    "romanization": "nomeun",
+    "meaning": ""
+  },
+  {
+    "word": "맞죠",
+    "romanization": "majjyo",
+    "meaning": ""
+  },
+  {
+    "word": "마음",
+    "romanization": "maeum",
+    "meaning": ""
+  },
+  {
+    "word": "맞는",
+    "romanization": "majneun",
+    "meaning": ""
+  },
+  {
+    "word": "해라",
+    "romanization": "haera",
+    "meaning": ""
+  },
+  {
+    "word": "했고",
+    "romanization": "haessgo",
+    "meaning": ""
+  },
+  {
+    "word": "저건",
+    "romanization": "jeogeon",
+    "meaning": ""
+  },
+  {
+    "word": "특히",
+    "romanization": "teukhi",
+    "meaning": ""
+  },
+  {
+    "word": "어머",
+    "romanization": "eomeo",
+    "meaning": ""
+  },
+  {
+    "word": "거니",
+    "romanization": "geoni",
+    "meaning": ""
+  },
+  {
+    "word": "현재",
+    "romanization": "hyeonjae",
+    "meaning": ""
+  },
+  {
+    "word": "얼굴",
+    "romanization": "eolgul",
+    "meaning": ""
+  },
+  {
+    "word": "좋다",
+    "romanization": "johda",
+    "meaning": ""
+  },
+  {
+    "word": "생긴",
+    "romanization": "saenggin",
+    "meaning": ""
+  },
+  {
+    "word": "보다",
+    "romanization": "boda",
+    "meaning": ""
+  },
+  {
+    "word": "곳이",
+    "romanization": "gosi",
+    "meaning": ""
+  },
+  {
+    "word": "눈에",
+    "romanization": "nune",
+    "meaning": ""
+  },
+  {
+    "word": "옷을",
+    "romanization": "oseul",
+    "meaning": ""
+  },
+  {
+    "word": "남편",
+    "romanization": "nampyeon",
+    "meaning": ""
+  },
+  {
+    "word": "예쁜",
+    "romanization": "yeppeun",
+    "meaning": ""
+  },
+  {
+    "word": "숨을",
+    "romanization": "sumeul",
+    "meaning": ""
+  },
+  {
+    "word": "일로",
+    "romanization": "ilro",
+    "meaning": ""
+  },
+  {
+    "word": "만난",
+    "romanization": "mannan",
+    "meaning": ""
+  },
+  {
+    "word": "착한",
+    "romanization": "chakhan",
+    "meaning": ""
+  },
+  {
+    "word": "많아",
+    "romanization": "manha",
+    "meaning": ""
+  },
+  {
+    "word": "전하",
+    "romanization": "jeonha",
+    "meaning": ""
+  },
+  {
+    "word": "기억",
+    "romanization": "gieok",
+    "meaning": ""
+  },
+  {
+    "word": "며칠",
+    "romanization": "myeochil",
+    "meaning": ""
+  },
+  {
+    "word": "네게",
+    "romanization": "nege",
+    "meaning": ""
+  },
+  {
+    "word": "그려",
+    "romanization": "geuryeo",
+    "meaning": ""
+  },
+  {
+    "word": "배",
+    "romanization": "bae",
+    "meaning": ""
+  },
+  {
+    "word": "사진",
+    "romanization": "sajin",
+    "meaning": ""
+  },
+  {
+    "word": "딸",
+    "romanization": "ttal",
+    "meaning": ""
+  },
+  {
+    "word": "녀석",
+    "romanization": "nyeoseok",
+    "meaning": ""
+  },
+  {
+    "word": "해줘",
+    "romanization": "haejwo",
+    "meaning": ""
+  },
+  {
+    "word": "상관",
+    "romanization": "sanggwan",
+    "meaning": ""
+  },
+  {
+    "word": "써",
+    "romanization": "sseo",
+    "meaning": ""
+  },
+  {
+    "word": "아나",
+    "romanization": "ana",
+    "meaning": ""
+  },
+  {
+    "word": "했을",
+    "romanization": "haesseul",
+    "meaning": ""
+  },
+  {
+    "word": "잭",
+    "romanization": "jaek",
+    "meaning": ""
+  },
+  {
+    "word": "됐다",
+    "romanization": "dwaessda",
+    "meaning": ""
+  },
+  {
+    "word": "나갈",
+    "romanization": "nagal",
+    "meaning": ""
+  },
+  {
+    "word": "대",
+    "romanization": "dae",
+    "meaning": ""
+  },
+  {
+    "word": "쓰고",
+    "romanization": "sseugo",
+    "meaning": ""
+  },
+  {
+    "word": "잊지",
+    "romanization": "ijji",
+    "meaning": ""
+  },
+  {
+    "word": "가족",
+    "romanization": "gajok",
+    "meaning": ""
+  },
+  {
+    "word": "그날",
+    "romanization": "geunal",
+    "meaning": ""
+  },
+  {
+    "word": "됐지",
+    "romanization": "dwaessji",
+    "meaning": ""
+  },
+  {
+    "word": "갖다",
+    "romanization": "gajda",
+    "meaning": ""
+  },
+  {
+    "word": "없소",
+    "romanization": "eopsso",
+    "meaning": ""
+  },
+  {
+    "word": "죽고",
+    "romanization": "jukgo",
+    "meaning": ""
+  },
+  {
+    "word": "순간",
+    "romanization": "sungan",
+    "meaning": ""
+  },
+  {
+    "word": "거냐",
+    "romanization": "geonya",
+    "meaning": ""
+  },
+  {
+    "word": "곁에",
+    "romanization": "gyeote",
+    "meaning": ""
+  },
+  {
+    "word": "약을",
+    "romanization": "yakeul",
+    "meaning": ""
+  },
+  {
+    "word": "죽지",
+    "romanization": "jukji",
+    "meaning": ""
+  },
+  {
+    "word": "보통",
+    "romanization": "botong",
+    "meaning": ""
+  },
+  {
+    "word": "흠",
+    "romanization": "heum",
+    "meaning": ""
+  },
+  {
+    "word": "가져",
+    "romanization": "gajyeo",
+    "meaning": ""
+  },
+  {
+    "word": "운이",
+    "romanization": "uni",
+    "meaning": ""
+  },
+  {
+    "word": "받은",
+    "romanization": "bateun",
+    "meaning": ""
+  },
+  {
+    "word": "열어",
+    "romanization": "yeoleo",
+    "meaning": ""
+  },
+  {
+    "word": "어찌",
+    "romanization": "eojji",
+    "meaning": ""
+  },
+  {
+    "word": "될까",
+    "romanization": "doelkka",
+    "meaning": ""
+  },
+  {
+    "word": "돌아",
+    "romanization": "dola",
+    "meaning": ""
+  },
+  {
+    "word": "보기",
+    "romanization": "bogi",
+    "meaning": ""
+  },
+  {
+    "word": "피가",
+    "romanization": "piga",
+    "meaning": ""
+  },
+  {
+    "word": "놓고",
+    "romanization": "nohgo",
+    "meaning": ""
+  },
+  {
+    "word": "쓰는",
+    "romanization": "sseuneun",
+    "meaning": ""
+  },
+  {
+    "word": "곳을",
+    "romanization": "goseul",
+    "meaning": ""
+  },
+  {
+    "word": "몸",
+    "romanization": "mom",
+    "meaning": ""
+  },
+  {
+    "word": "뛰어",
+    "romanization": "ttwieo",
+    "meaning": ""
+  },
+  {
+    "word": "설마",
+    "romanization": "seolma",
+    "meaning": ""
+  },
+  {
+    "word": "같다",
+    "romanization": "gatda",
+    "meaning": ""
+  },
+  {
+    "word": "몸을",
+    "romanization": "momeul",
+    "meaning": ""
+  },
+  {
+    "word": "외과",
+    "romanization": "oegwa",
+    "meaning": ""
+  },
+  {
+    "word": "샘",
+    "romanization": "saem",
+    "meaning": ""
+  },
+  {
+    "word": "갔어",
+    "romanization": "gasseo",
+    "meaning": ""
+  },
+  {
+    "word": "조",
+    "romanization": "jo",
+    "meaning": ""
+  },
+  {
+    "word": "둬",
+    "romanization": "dwo",
+    "meaning": ""
+  },
+  {
+    "word": "우선",
+    "romanization": "useon",
+    "meaning": ""
+  },
+  {
+    "word": "방",
+    "romanization": "bang",
+    "meaning": ""
+  },
+  {
+    "word": "놈의",
+    "romanization": "nomui",
+    "meaning": ""
+  },
+  {
+    "word": "것에",
+    "romanization": "geose",
+    "meaning": ""
+  },
+  {
+    "word": "음악",
+    "romanization": "eumak",
+    "meaning": ""
+  },
+  {
+    "word": "간에",
+    "romanization": "gane",
+    "meaning": ""
+  },
+  {
+    "word": "쓰지",
+    "romanization": "sseuji",
+    "meaning": ""
+  },
+  {
+    "word": "봤지",
+    "romanization": "bwassji",
+    "meaning": ""
+  },
+  {
+    "word": "검사",
+    "romanization": "geomsa",
+    "meaning": ""
+  },
+  {
+    "word": "다리",
+    "romanization": "dari",
+    "meaning": ""
+  },
+  {
+    "word": "화가",
+    "romanization": "hwaga",
+    "meaning": ""
+  },
+  {
+    "word": "같지",
+    "romanization": "gatji",
+    "meaning": ""
+  },
+  {
+    "word": "타",
+    "romanization": "ta",
+    "meaning": ""
+  },
+  {
+    "word": "명",
+    "romanization": "myeong",
+    "meaning": ""
+  },
+  {
+    "word": "에이",
+    "romanization": "ei",
+    "meaning": ""
+  },
+  {
+    "word": "빼고",
+    "romanization": "ppaego",
+    "meaning": ""
+  },
+  {
+    "word": "쟤",
+    "romanization": "jyae",
+    "meaning": ""
+  },
+  {
+    "word": "척",
+    "romanization": "cheok",
+    "meaning": ""
+  },
+  {
+    "word": "경우",
+    "romanization": "gyeongu",
+    "meaning": ""
+  },
+  {
+    "word": "믿고",
+    "romanization": "mitgo",
+    "meaning": ""
+  },
+  {
+    "word": "자막",
+    "romanization": "jamak",
+    "meaning": ""
+  },
+  {
+    "word": "미국",
+    "romanization": "miguk",
+    "meaning": ""
+  },
+  {
+    "word": "신이",
+    "romanization": "sini",
+    "meaning": ""
+  },
+  {
+    "word": "있기",
+    "romanization": "issgi",
+    "meaning": ""
+  },
+  {
+    "word": "산",
+    "romanization": "san",
+    "meaning": ""
+  },
+  {
+    "word": "얘가",
+    "romanization": "yaega",
+    "meaning": ""
+  },
+  {
+    "word": "하실",
+    "romanization": "hasil",
+    "meaning": ""
+  },
+  {
+    "word": "짓",
+    "romanization": "jis",
+    "meaning": ""
+  },
+  {
+    "word": "헤이",
+    "romanization": "hei",
+    "meaning": ""
+  },
+  {
+    "word": "거란",
+    "romanization": "georan",
+    "meaning": ""
+  },
+  {
+    "word": "도와",
+    "romanization": "dowa",
+    "meaning": ""
+  },
+  {
+    "word": "길",
+    "romanization": "gil",
+    "meaning": ""
+  },
+  {
+    "word": "날이",
+    "romanization": "nali",
+    "meaning": ""
+  },
+  {
+    "word": "모를",
+    "romanization": "moreul",
+    "meaning": ""
+  },
+  {
+    "word": "하",
+    "romanization": "ha",
+    "meaning": ""
+  },
+  {
+    "word": "이해",
+    "romanization": "ihae",
+    "meaning": ""
+  },
+  {
+    "word": "나면",
+    "romanization": "namyeon",
+    "meaning": ""
+  },
+  {
+    "word": "할수",
+    "romanization": "halsu",
+    "meaning": ""
+  },
+  {
+    "word": "봐봐",
+    "romanization": "bwabwa",
+    "meaning": ""
+  },
+  {
+    "word": "해줄",
+    "romanization": "haejul",
+    "meaning": ""
+  },
+  {
+    "word": "세상",
+    "romanization": "sesang",
+    "meaning": ""
+  },
+  {
+    "word": "여러",
+    "romanization": "yeoreo",
+    "meaning": ""
+  },
+  {
+    "word": "딸이",
+    "romanization": "ttali",
+    "meaning": ""
+  },
+  {
+    "word": "봐야",
+    "romanization": "bwaya",
+    "meaning": ""
+  },
+  {
+    "word": "막을",
+    "romanization": "makeul",
+    "meaning": ""
+  },
+  {
+    "word": "죽여",
+    "romanization": "jukyeo",
+    "meaning": ""
+  },
+  {
+    "word": "칼",
+    "romanization": "kal",
+    "meaning": ""
+  },
+  {
+    "word": "박사",
+    "romanization": "baksa",
+    "meaning": ""
+  },
+  {
+    "word": "와우",
+    "romanization": "wau",
+    "meaning": ""
+  },
+  {
+    "word": "거긴",
+    "romanization": "geogin",
+    "meaning": ""
+  },
+  {
+    "word": "도울",
+    "romanization": "doul",
+    "meaning": ""
+  },
+  {
+    "word": "시작",
+    "romanization": "sijak",
+    "meaning": ""
+  },
+  {
+    "word": "처럼",
+    "romanization": "cheoreom",
+    "meaning": ""
+  },
+  {
+    "word": "결코",
+    "romanization": "gyeolko",
+    "meaning": ""
+  },
+  {
+    "word": "숨",
+    "romanization": "sum",
+    "meaning": ""
+  },
+  {
+    "word": "하니",
+    "romanization": "hani",
+    "meaning": ""
+  },
+  {
+    "word": "나온",
+    "romanization": "naon",
+    "meaning": ""
+  },
+  {
+    "word": "옛날",
+    "romanization": "yesnal",
+    "meaning": ""
+  },
+  {
+    "word": "너네",
+    "romanization": "neone",
+    "meaning": ""
+  },
+  {
+    "word": "동생",
+    "romanization": "dongsaeng",
+    "meaning": ""
+  },
+  {
+    "word": "오직",
+    "romanization": "ojik",
+    "meaning": ""
+  },
+  {
+    "word": "원해",
+    "romanization": "wonhae",
+    "meaning": ""
+  },
+  {
+    "word": "폐하",
+    "romanization": "pyeha",
+    "meaning": ""
+  },
+  {
+    "word": "미리",
+    "romanization": "miri",
+    "meaning": ""
+  },
+  {
+    "word": "애는",
+    "romanization": "aeneun",
+    "meaning": ""
+  },
+  {
+    "word": "종일",
+    "romanization": "jongil",
+    "meaning": ""
+  },
+  {
+    "word": "가질",
+    "romanization": "gajil",
+    "meaning": ""
+  },
+  {
+    "word": "필",
+    "romanization": "pil",
+    "meaning": ""
+  },
+  {
+    "word": "가도",
+    "romanization": "gado",
+    "meaning": ""
+  },
+  {
+    "word": "아유",
+    "romanization": "ayu",
+    "meaning": ""
+  },
+  {
+    "word": "목을",
+    "romanization": "mokeul",
+    "meaning": ""
+  },
+  {
+    "word": "가봐",
+    "romanization": "gabwa",
+    "meaning": ""
+  },
+  {
+    "word": "않나",
+    "romanization": "anhna",
+    "meaning": ""
+  },
+  {
+    "word": "빠져",
+    "romanization": "ppajyeo",
+    "meaning": ""
+  },
+  {
+    "word": "아가",
+    "romanization": "aga",
+    "meaning": ""
+  },
+  {
+    "word": "만",
+    "romanization": "man",
+    "meaning": ""
+  },
+  {
+    "word": "뒤",
+    "romanization": "dwi",
+    "meaning": ""
+  },
+  {
+    "word": "닉",
+    "romanization": "nik",
+    "meaning": ""
+  },
+  {
+    "word": "달라",
+    "romanization": "dalra",
+    "meaning": ""
+  },
+  {
+    "word": "딸을",
+    "romanization": "ttaleul",
+    "meaning": ""
+  },
+  {
+    "word": "살인",
+    "romanization": "salin",
+    "meaning": ""
+  },
+  {
+    "word": "남의",
+    "romanization": "namui",
+    "meaning": ""
+  },
+  {
+    "word": "번도",
+    "romanization": "beondo",
+    "meaning": ""
+  },
+  {
+    "word": "먹는",
+    "romanization": "meokneun",
+    "meaning": ""
+  },
+  {
+    "word": "씨가",
+    "romanization": "ssiga",
+    "meaning": ""
+  },
+  {
+    "word": "저랑",
+    "romanization": "jeorang",
+    "meaning": ""
+  },
+  {
+    "word": "조니",
+    "romanization": "joni",
+    "meaning": ""
+  },
+  {
+    "word": "아픈",
+    "romanization": "apeun",
+    "meaning": ""
+  },
+  {
+    "word": "책",
+    "romanization": "chaek",
+    "meaning": ""
+  },
+  {
+    "word": "사고",
+    "romanization": "sago",
+    "meaning": ""
+  },
+  {
+    "word": "나은",
+    "romanization": "naeun",
+    "meaning": ""
+  },
+  {
+    "word": "뭐라",
+    "romanization": "mwora",
+    "meaning": ""
+  },
+  {
+    "word": "쓴",
+    "romanization": "sseun",
+    "meaning": ""
+  },
+  {
+    "word": "하네",
+    "romanization": "hane",
+    "meaning": ""
+  },
+  {
+    "word": "돈은",
+    "romanization": "doneun",
+    "meaning": ""
+  },
+  {
+    "word": "느낄",
+    "romanization": "neukkil",
+    "meaning": ""
+  },
+  {
+    "word": "명이",
+    "romanization": "myeongi",
+    "meaning": ""
+  },
+  {
+    "word": "놈들",
+    "romanization": "nomdeul",
+    "meaning": ""
+  },
+  {
+    "word": "마크",
+    "romanization": "makeu",
+    "meaning": ""
+  },
+  {
+    "word": "적은",
+    "romanization": "jeokeun",
+    "meaning": ""
+  },
+  {
+    "word": "그녀",
+    "romanization": "geunyeo",
+    "meaning": ""
+  },
+  {
+    "word": "이만",
+    "romanization": "iman",
+    "meaning": ""
+  },
+  {
+    "word": "내내",
+    "romanization": "naenae",
+    "meaning": ""
+  },
+  {
+    "word": "긴",
+    "romanization": "gin",
+    "meaning": ""
+  },
+  {
+    "word": "곳은",
+    "romanization": "goseun",
+    "meaning": ""
+  },
+  {
+    "word": "잡을",
+    "romanization": "japeul",
+    "meaning": ""
+  },
+  {
+    "word": "되요",
+    "romanization": "doeyo",
+    "meaning": ""
+  },
+  {
+    "word": "메리",
+    "romanization": "meri",
+    "meaning": ""
+  },
+  {
+    "word": "친한",
+    "romanization": "chinhan",
+    "meaning": ""
+  },
+  {
+    "word": "버려",
+    "romanization": "beoryeo",
+    "meaning": ""
+  },
+  {
+    "word": "만나",
+    "romanization": "manna",
+    "meaning": ""
+  },
+  {
+    "word": "같네",
+    "romanization": "gatne",
+    "meaning": ""
+  },
+  {
+    "word": "사건",
+    "romanization": "sageon",
+    "meaning": ""
+  },
+  {
+    "word": "들을",
+    "romanization": "deuleul",
+    "meaning": ""
+  },
+  {
+    "word": "애야",
+    "romanization": "aeya",
+    "meaning": ""
+  },
+  {
+    "word": "배를",
+    "romanization": "baereul",
+    "meaning": ""
+  },
+  {
+    "word": "실은",
+    "romanization": "sileun",
+    "meaning": ""
+  },
+  {
+    "word": "뭐해",
+    "romanization": "mwohae",
+    "meaning": ""
+  },
+  {
+    "word": "올게",
+    "romanization": "olge",
+    "meaning": ""
+  },
+  {
+    "word": "덜",
+    "romanization": "deol",
+    "meaning": ""
+  },
+  {
+    "word": "분은",
+    "romanization": "buneun",
+    "meaning": ""
+  },
+  {
+    "word": "넣어",
+    "romanization": "neoheo",
+    "meaning": ""
+  },
+  {
+    "word": "구할",
+    "romanization": "guhal",
+    "meaning": ""
+  },
+  {
+    "word": "전엔",
+    "romanization": "jeonen",
+    "meaning": ""
+  },
+  {
+    "word": "손이",
+    "romanization": "soni",
+    "meaning": ""
+  },
+  {
+    "word": "주면",
+    "romanization": "jumyeon",
+    "meaning": ""
+  },
+  {
+    "word": "팔",
+    "romanization": "pal",
+    "meaning": ""
+  },
+  {
+    "word": "들려",
+    "romanization": "deulryeo",
+    "meaning": ""
+  },
+  {
+    "word": "받는",
+    "romanization": "batneun",
+    "meaning": ""
+  },
+  {
+    "word": "영화",
+    "romanization": "yeonghwa",
+    "meaning": ""
+  },
+  {
+    "word": "강한",
+    "romanization": "ganghan",
+    "meaning": ""
+  },
+  {
+    "word": "힘이",
+    "romanization": "himi",
+    "meaning": ""
+  },
+  {
+    "word": "슬론",
+    "romanization": "seulron",
+    "meaning": ""
+  },
+  {
+    "word": "내겐",
+    "romanization": "naegen",
+    "meaning": ""
+  },
+  {
+    "word": "나올",
+    "romanization": "naol",
+    "meaning": ""
+  },
+  {
+    "word": "자넬",
+    "romanization": "janel",
+    "meaning": ""
+  },
+  {
+    "word": "같군",
+    "romanization": "gatgun",
+    "meaning": ""
+  },
+  {
+    "word": "아파",
+    "romanization": "apa",
+    "meaning": ""
+  },
+  {
+    "word": "먼",
+    "romanization": "meon",
+    "meaning": ""
+  },
+  {
+    "word": "몸에",
+    "romanization": "mome",
+    "meaning": ""
+  },
+  {
+    "word": "온다",
+    "romanization": "onda",
+    "meaning": ""
+  },
+  {
+    "word": "원치",
+    "romanization": "wonchi",
+    "meaning": ""
+  },
+  {
+    "word": "않지",
+    "romanization": "anhji",
+    "meaning": ""
+  },
+  {
+    "word": "대니",
+    "romanization": "daeni",
+    "meaning": ""
+  },
+  {
+    "word": "것과",
+    "romanization": "geosgwa",
+    "meaning": ""
+  },
+  {
+    "word": "돌려",
+    "romanization": "dolryeo",
+    "meaning": ""
+  },
+  {
+    "word": "길이",
+    "romanization": "gili",
+    "meaning": ""
+  },
+  {
+    "word": "채",
+    "romanization": "chae",
+    "meaning": ""
+  },
+  {
+    "word": "인간",
+    "romanization": "ingan",
+    "meaning": ""
+  },
+  {
+    "word": "셔먼",
+    "romanization": "syeomeon",
+    "meaning": ""
+  },
+  {
+    "word": "있단",
+    "romanization": "issdan",
+    "meaning": ""
+  },
+  {
+    "word": "받지",
+    "romanization": "batji",
+    "meaning": ""
+  },
+  {
+    "word": "신의",
+    "romanization": "sinui",
+    "meaning": ""
+  },
+  {
+    "word": "그들",
+    "romanization": "geudeul",
+    "meaning": ""
+  },
+  {
+    "word": "가라",
+    "romanization": "gara",
+    "meaning": ""
+  },
+  {
+    "word": "차가",
+    "romanization": "chaga",
+    "meaning": ""
+  },
+  {
+    "word": "지도",
+    "romanization": "jido",
+    "meaning": ""
+  },
+  {
+    "word": "팀",
+    "romanization": "tim",
+    "meaning": ""
+  },
+  {
+    "word": "몰래",
+    "romanization": "molrae",
+    "meaning": ""
+  },
+  {
+    "word": "그땐",
+    "romanization": "geuttaen",
+    "meaning": ""
+  },
+  {
+    "word": "장",
+    "romanization": "jang",
+    "meaning": ""
+  },
+  {
+    "word": "피",
+    "romanization": "pi",
+    "meaning": ""
+  },
+  {
+    "word": "돼서",
+    "romanization": "dwaeseo",
+    "meaning": ""
+  },
+  {
+    "word": "밤새",
+    "romanization": "bamsae",
+    "meaning": ""
+  },
+  {
+    "word": "맨날",
+    "romanization": "maennal",
+    "meaning": ""
+  },
+  {
+    "word": "리",
+    "romanization": "ri",
+    "meaning": ""
+  },
+  {
+    "word": "관심",
+    "romanization": "gwansim",
+    "meaning": ""
+  },
+  {
+    "word": "라는",
+    "romanization": "raneun",
+    "meaning": ""
+  },
+  {
+    "word": "않죠",
+    "romanization": "anhjyo",
+    "meaning": ""
+  },
+  {
+    "word": "즉시",
+    "romanization": "jeuksi",
+    "meaning": ""
+  },
+  {
+    "word": "보낸",
+    "romanization": "bonaen",
+    "meaning": ""
+  },
+  {
+    "word": "물을",
+    "romanization": "muleul",
+    "meaning": ""
+  },
+  {
+    "word": "한데",
+    "romanization": "hande",
+    "meaning": ""
+  },
+  {
+    "word": "얘긴",
+    "romanization": "yaegin",
+    "meaning": ""
+  },
+  {
+    "word": "개가",
+    "romanization": "gaega",
+    "meaning": ""
+  },
+  {
+    "word": "줄은",
+    "romanization": "juleun",
+    "meaning": ""
+  },
+  {
+    "word": "얻을",
+    "romanization": "eoteul",
+    "meaning": ""
+  },
+  {
+    "word": "입을",
+    "romanization": "ipeul",
+    "meaning": ""
+  },
+  {
+    "word": "아래",
+    "romanization": "arae",
+    "meaning": ""
+  },
+  {
+    "word": "것만",
+    "romanization": "geosman",
+    "meaning": ""
+  },
+  {
+    "word": "배가",
+    "romanization": "baega",
+    "meaning": ""
+  },
+  {
+    "word": "괜히",
+    "romanization": "gwaenhi",
+    "meaning": ""
+  },
+  {
+    "word": "적도",
+    "romanization": "jeokdo",
+    "meaning": ""
+  },
+  {
+    "word": "위로",
+    "romanization": "wiro",
+    "meaning": ""
+  },
+  {
+    "word": "좀더",
+    "romanization": "jomdeo",
+    "meaning": ""
+  },
+  {
+    "word": "걸어",
+    "romanization": "geoleo",
+    "meaning": ""
+  },
+  {
+    "word": "같애",
+    "romanization": "gatae",
+    "meaning": ""
+  },
+  {
+    "word": "향해",
+    "romanization": "hyanghae",
+    "meaning": ""
+  },
+  {
+    "word": "쉬운",
+    "romanization": "swiun",
+    "meaning": ""
+  },
+  {
+    "word": "걸린",
+    "romanization": "geolrin",
+    "meaning": ""
+  },
+  {
+    "word": "생일",
+    "romanization": "saengil",
+    "meaning": ""
+  },
+  {
+    "word": "볼까",
+    "romanization": "bolkka",
+    "meaning": ""
+  },
+  {
+    "word": "또는",
+    "romanization": "ttoneun",
+    "meaning": ""
+  },
+  {
+    "word": "했나",
+    "romanization": "haessna",
+    "meaning": ""
+  },
+  {
+    "word": "은",
+    "romanization": "eun",
+    "meaning": ""
+  },
+  {
+    "word": "및",
+    "romanization": "mich",
+    "meaning": ""
+  },
+  {
+    "word": "그치",
+    "romanization": "geuchi",
+    "meaning": ""
+  },
+  {
+    "word": "보죠",
+    "romanization": "bojyo",
+    "meaning": ""
+  },
+  {
+    "word": "확인",
+    "romanization": "hwakin",
+    "meaning": ""
+  },
+  {
+    "word": "밑에",
+    "romanization": "mite",
+    "meaning": ""
+  },
+  {
+    "word": "고",
+    "romanization": "go",
+    "meaning": ""
+  },
+  {
+    "word": "검은",
+    "romanization": "geomeun",
+    "meaning": ""
+  },
+  {
+    "word": "되게",
+    "romanization": "doege",
+    "meaning": ""
+  },
+  {
+    "word": "개를",
+    "romanization": "gaereul",
+    "meaning": ""
+  },
+  {
+    "word": "아닐",
+    "romanization": "anil",
+    "meaning": ""
+  },
+  {
+    "word": "비밀",
+    "romanization": "bimil",
+    "meaning": ""
+  },
+  {
+    "word": "오신",
+    "romanization": "osin",
+    "meaning": ""
+  },
+  {
+    "word": "걸세",
+    "romanization": "geolse",
+    "meaning": ""
+  },
+  {
+    "word": "하던",
+    "romanization": "hadeon",
+    "meaning": ""
+  },
+  {
+    "word": "있군",
+    "romanization": "issgun",
+    "meaning": ""
+  },
+  {
+    "word": "담배",
+    "romanization": "dambae",
+    "meaning": ""
+  },
+  {
+    "word": "얘는",
+    "romanization": "yaeneun",
+    "meaning": ""
+  },
+  {
+    "word": "리가",
+    "romanization": "riga",
+    "meaning": ""
+  },
+  {
+    "word": "이동",
+    "romanization": "idong",
+    "meaning": ""
+  },
+  {
+    "word": "감히",
+    "romanization": "gamhi",
+    "meaning": ""
+  },
+  {
+    "word": "배포",
+    "romanization": "baepo",
+    "meaning": ""
+  },
+  {
+    "word": "전해",
+    "romanization": "jeonhae",
+    "meaning": ""
+  },
+  {
+    "word": "떠나",
+    "romanization": "tteona",
+    "meaning": ""
+  },
+  {
+    "word": "걸릴",
+    "romanization": "geolril",
+    "meaning": ""
+  },
+  {
+    "word": "바람",
+    "romanization": "baram",
+    "meaning": ""
+  },
+  {
+    "word": "내놔",
+    "romanization": "naenwa",
+    "meaning": ""
+  },
+  {
+    "word": "빨간",
+    "romanization": "ppalgan",
+    "meaning": ""
+  },
+  {
+    "word": "개의",
+    "romanization": "gaeui",
+    "meaning": ""
+  },
+  {
+    "word": "왼쪽",
+    "romanization": "oenjjok",
+    "meaning": ""
+  },
+  {
+    "word": "불",
+    "romanization": "bul",
+    "meaning": ""
+  },
+  {
+    "word": "게임",
+    "romanization": "geim",
+    "meaning": ""
+  },
+  {
+    "word": "포",
+    "romanization": "po",
+    "meaning": ""
+  },
+  {
+    "word": "안나",
+    "romanization": "anna",
+    "meaning": ""
+  },
+  {
+    "word": "드릴",
+    "romanization": "deuril",
+    "meaning": ""
+  },
+  {
+    "word": "맞다",
+    "romanization": "majda",
+    "meaning": ""
+  },
+  {
+    "word": "들은",
+    "romanization": "deuleun",
+    "meaning": ""
+  },
+  {
+    "word": "루이",
+    "romanization": "rui",
+    "meaning": ""
+  },
+  {
+    "word": "왓슨",
+    "romanization": "wasseun",
+    "meaning": ""
+  },
+  {
+    "word": "로",
+    "romanization": "ro",
+    "meaning": ""
+  },
+  {
+    "word": "비가",
+    "romanization": "biga",
+    "meaning": ""
+  },
+  {
+    "word": "즉",
+    "romanization": "jeuk",
+    "meaning": ""
+  },
+  {
+    "word": "따로",
+    "romanization": "ttaro",
+    "meaning": ""
+  },
+  {
+    "word": "없군",
+    "romanization": "eopsgun",
+    "meaning": ""
+  },
+  {
+    "word": "왔지",
+    "romanization": "wassji",
+    "meaning": ""
+  },
+  {
+    "word": "맥스",
+    "romanization": "maekseu",
+    "meaning": ""
+  },
+  {
+    "word": "팔을",
+    "romanization": "paleul",
+    "meaning": ""
+  },
+  {
+    "word": "싶을",
+    "romanization": "sipeul",
+    "meaning": ""
+  },
+  {
+    "word": "법을",
+    "romanization": "beopeul",
+    "meaning": ""
+  },
+  {
+    "word": "죽기",
+    "romanization": "jukgi",
+    "meaning": ""
+  },
+  {
+    "word": "높은",
+    "romanization": "nopeun",
+    "meaning": ""
+  },
+  {
+    "word": "봐도",
+    "romanization": "bwado",
+    "meaning": ""
+  },
+  {
+    "word": "질문",
+    "romanization": "jilmun",
+    "meaning": ""
+  },
+  {
+    "word": "나무",
+    "romanization": "namu",
+    "meaning": ""
+  },
+  {
+    "word": "암",
+    "romanization": "am",
+    "meaning": ""
+  },
+  {
+    "word": "씨는",
+    "romanization": "ssineun",
+    "meaning": ""
+  },
+  {
+    "word": "인턴",
+    "romanization": "inteon",
+    "meaning": ""
+  },
+  {
+    "word": "좋게",
+    "romanization": "johge",
+    "meaning": ""
+  },
+  {
+    "word": "보낼",
+    "romanization": "bonael",
+    "meaning": ""
+  },
+  {
+    "word": "물이",
+    "romanization": "muli",
+    "meaning": ""
+  },
+  {
+    "word": "의해",
+    "romanization": "uihae",
+    "meaning": ""
+  },
+  {
+    "word": "계신",
+    "romanization": "gyesin",
+    "meaning": ""
+  },
+  {
+    "word": "없나",
+    "romanization": "eopsna",
+    "meaning": ""
+  },
+  {
+    "word": "나요",
+    "romanization": "nayo",
+    "meaning": ""
+  }
+]
