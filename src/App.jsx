@@ -107,8 +107,8 @@ export default function App() {
               <div className="menu-section">
                 <h3>Review</h3>
                 <div className="menu-buttons">
-                  <button onClick={() => setMode('review_vowels_single')}>Review Vowels (single)</button>
-                  <button onClick={() => setMode('review_vowels_double')}>Review Vowels (double)</button>
+                  <button onClick={() => setMode('review_vowels_single')}>Vowels (single)</button>
+                  <button onClick={() => setMode('review_vowels_double')}>Vowels (double)</button>
                 </div>
               </div>
             </div>
@@ -137,8 +137,8 @@ export default function App() {
               <div className="menu-section">
                 <h3>Review</h3>
                 <div className="menu-buttons">
-                  <button onClick={() => setMode('review_consonants_single')}>Review Consonants (single)</button>
-                  <button onClick={() => setMode('review_consonants_double')}>Review Consonants (double)</button>
+                  <button onClick={() => setMode('review_consonants_single')}>Consonants (single)</button>
+                  <button onClick={() => setMode('review_consonants_double')}>Consonants (double)</button>
                 </div>
               </div>
             </div>
@@ -167,8 +167,8 @@ export default function App() {
               <div className="menu-section">
                 <h3>Review</h3>
                 <div className="menu-buttons">
-                  <button onClick={() => setMode('syllables_vowels_single')}>Review Vowel Syllables (single)</button>
-                  <button onClick={() => setMode('syllables_vowels_double')}>Review Vowel Syllables (double)</button>
+                  <button onClick={() => setMode('syllables_vowels_single')}>Vowel Syllables (single)</button>
+                  <button onClick={() => setMode('syllables_vowels_double')}>Vowel Syllables (double)</button>
                 </div>
               </div>
             </div>
@@ -184,8 +184,8 @@ export default function App() {
               <div className="menu-section">
                 <h3>Review</h3>
                 <div className="menu-buttons">
-                  <button onClick={() => setMode('syllables_consonants_single')}>Review Consonant Syllables (single)</button>
-                  <button onClick={() => setMode('syllables_consonants_double')}>Review Consonant Syllables (double)</button>
+                  <button onClick={() => setMode('syllables_consonants_single')}>Consonant Syllables (single)</button>
+                  <button onClick={() => setMode('syllables_consonants_double')}>Consonant Syllables (double)</button>
                 </div>
               </div>
             </div>
