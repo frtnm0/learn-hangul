@@ -11,11 +11,19 @@ function shuffle(arr) {
 }
 
 function makeQuestions(items, TOTAL) {
+  if (!items || items.length === 0) return []
   const result = []
+  // create a shuffled pool that cycles through all items before repeating
+  const pool = []
+  while (pool.length < TOTAL) {
+    pool.push(...shuffle(items))
+  }
+  pool.length = TOTAL // trim to exactly TOTAL
+
   for (let i = 0; i < TOTAL; i++) {
-    const correct = items[Math.floor(Math.random() * items.length)]
+    const correct = pool[i]
     const othersPool = items.filter(p => p.name !== correct.name)
-    const others = shuffle(othersPool).slice(0, 2)
+    const others = shuffle(othersPool).slice(0, Math.min(2, othersPool.length))
     const options = shuffle([correct, ...others])
     result.push({ correct, options })
   }
