@@ -2,9 +2,9 @@
 Generate two JSON word lists:
 - src/data/words_common_1000.json : top 1000 Korean words from hermitdave 50k list
 - src/data/words_short_1000.json : 1000 short words (≤2 syllables)
-Includes fields: { word, romanization, meaning }
+Includes fields: { word, romanization, translation }
 Romanization: basic Revised Romanization approximation
-Meanings: fetched (best-effort) from Glosbe API
+Translations: fetched (best-effort) from Glosbe, MyMemory, and a public Google Translate endpoint (fallbacks)
 
 Usage: node scripts/generate_wordlists.js
 */
@@ -105,7 +105,62 @@ function fetchTranslationGlosbe(word) {
   });
 }
 
-async function generate() {
+function fetchTranslationMyMemory(word) {
+  const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(word)}&langpair=ko|en`;
+  return new Promise((resolve) => {
+    https.get(url, (res) => {
+      let data = '';
+      res.on('data', c => data += c);
+      res.on('end', () => {
+        try {
+          const json = JSON.parse(data);
+          if (json && json.responseData && json.responseData.translatedText) {
+            const t = json.responseData.translatedText;
+            if (t && t !== word) return resolve(t);
+          }
+        } catch (e) {
+          // ignore
+        }
+        return resolve('');
+      });
+    }).on('error', () => resolve(''));
+  });
+}
+
+function fetchTranslationGoogle(word) {
+  // public, unofficial google translate endpoint (best-effort)
+  const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=ko&tl=en&dt=t&q=${encodeURIComponent(word)}`;
+  return new Promise((resolve) => {
+    https.get(url, (res) => {
+      let data = '';
+      res.on('data', c => data += c);
+      res.on('end', () => {
+        try {
+          const json = JSON.parse(data);
+          if (Array.isArray(json) && Array.isArray(json[0]) && json[0].length) {
+            const t = json[0].map(s => s[0]).join('');
+            if (t && t !== word) return resolve(t);
+          }
+        } catch (e) {
+          // ignore
+        }
+        return resolve('');
+      });
+    }).on('error', () => resolve(''));
+  });
+}
+
+async function fetchTranslationAny(word) {
+  if (!word) return '';
+  let t = await fetchTranslationGlosbe(word);
+  if (t) return t;
+  t = await fetchTranslationMyMemory(word);
+  if (t) return t;
+  t = await fetchTranslationGoogle(word);
+  return t || '';
+}
+
+async function generate() { 
   console.log('Fetching source list...');
   const text = await fetchText(SOURCE_URL);
   const lines = text.split(/\r?\n/);
@@ -161,7 +216,7 @@ async function generate() {
         const roman = romanize(w);
         let translation = '';
         try {
-          translation = await fetchTranslationGlosbe(w);
+          translation = await fetchTranslationAny(w);
         } catch (e) {
           translation = '';
         }
@@ -186,7 +241,7 @@ async function generate() {
     const roman = romanize(w);
     let translation = commonMap.get(w) || '';
     if (!translation) {
-      translation = await fetchTranslationGlosbe(w);
+      translation = await fetchTranslationAny(w);
     }
     shortWithTranslations[i] = {word: w, romanization: roman, translation};
     if ((i + 1) % 100 === 0) console.log(`Short processed ${i + 1}/${short.length}`);

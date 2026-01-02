@@ -85,6 +85,17 @@ export default function App() {
   const wordsCommonItems = (commonWords || []).map(w => ({ char: w.word, name: w.romanization || w.word, example: w.translation || '' }))
   const wordsShortItems = (shortWords || []).map(w => ({ char: w.word, name: w.romanization || w.word, example: w.translation || '' }))
 
+  function sampleItems(arr, n = 20) {
+    if (!Array.isArray(arr)) return arr;
+    if (arr.length <= n) return arr;
+    const copy = [...arr];
+    for (let i = copy.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [copy[i], copy[j]] = [copy[j], copy[i]];
+    }
+    return copy.slice(0, n);
+  }
+
   return (
     <div className="app" data-theme={theme}>
       <header className="header">
@@ -312,11 +323,11 @@ export default function App() {
       )}
 
       {mode === 'review_words_common' && (
-        <Reviewer items={wordsCommonItems} title="Words — Common" onBack={goBack} />
+        <Reviewer items={sampleItems(wordsCommonItems, 20)} title="Words — Common" onBack={goBack} />
       )}
 
       {mode === 'review_words_short' && (
-        <Reviewer items={wordsShortItems} title="Words — Short" onBack={goBack} />
+        <Reviewer items={sampleItems(wordsShortItems, 20)} title="Words — Short" onBack={goBack} />
       )}
 
       <footer className="footer">
