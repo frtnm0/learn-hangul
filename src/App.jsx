@@ -1,6 +1,8 @@
 import React, { useState } from 'react'
 import Quiz from './components/Quiz'
 import Reviewer from './components/Reviewer'
+import commonWords from './data/words_common_1000.json'
+import shortWords from './data/words_short_1000.json'
 import {
   vowels,
   consonants,
@@ -79,6 +81,10 @@ export default function App() {
     }))
   }
 
+  // map generated wordlists into Quiz/Reviewer-friendly format
+  const wordsCommonItems = (commonWords || []).map(w => ({ char: w.word, name: w.romanization || w.word, example: w.meaning || '' }))
+  const wordsShortItems = (shortWords || []).map(w => ({ char: w.word, name: w.romanization || w.word, example: w.meaning || '' }))
+
   return (
     <div className="app" data-theme={theme}>
       <header className="header">
@@ -99,6 +105,7 @@ export default function App() {
               <button onClick={() => { navigate('submenu_vowels') }}>Vowels</button>
               <button onClick={() => { navigate('submenu_consonants') }}>Consonants</button>
               <button onClick={() => { navigate('submenu_syllables') }}>Syllables</button>
+              <button onClick={() => { navigate('submenu_words') }}>Words</button>
             </div>
             <p className="hint">Choose a category to see practice and review options.</p>
           </div>
@@ -200,6 +207,37 @@ export default function App() {
         </main>
       )}
 
+      {/* Level 2: submenu for words */}
+      {mode === 'submenu_words' && (
+        <main className="container">
+          <div className="card menu">
+            <h2>Words</h2>
+            <div style={{display:'flex',justifyContent:'space-between',alignItems:'center'}}>
+              <div></div>
+              <button onClick={goBack} style={{background:'transparent',color:'inherit',border:'none',cursor:'pointer'}}>Back</button>
+            </div>
+
+            <div className="menu-sections">
+              <div className="menu-section">
+                <h3>Quiz</h3>
+                <div className="menu-buttons">
+                  <button onClick={() => navigate('quiz_words_common')}>Common Words</button>
+                  <button onClick={() => navigate('quiz_words_short')}>Short Words</button>
+                </div>
+              </div>
+
+              <div className="menu-section">
+                <h3>Practice</h3>
+                <div className="menu-buttons">
+                  <button onClick={() => navigate('review_words_common')}>Common Words</button>
+                  <button onClick={() => navigate('review_words_short')}>Short Words</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </main>
+      )}
+
       {mode === 'vowels_single' && (
         <Quiz items={vowels_single} onBack={goBack} />
       )}
@@ -262,6 +300,23 @@ export default function App() {
 
       {mode === 'syllables_consonants_double_quiz' && (
         <Quiz items={syllables.consonants_double} onBack={goBack} />
+      )}
+
+      {/* Words: quizzes and reviews */}
+      {mode === 'quiz_words_common' && (
+        <Quiz items={wordsCommonItems} onBack={goBack} />
+      )}
+
+      {mode === 'quiz_words_short' && (
+        <Quiz items={wordsShortItems} onBack={goBack} />
+      )}
+
+      {mode === 'review_words_common' && (
+        <Reviewer items={wordsCommonItems} title="Words — Common" onBack={goBack} />
+      )}
+
+      {mode === 'review_words_short' && (
+        <Reviewer items={wordsShortItems} title="Words — Short" onBack={goBack} />
       )}
 
       <footer className="footer">
