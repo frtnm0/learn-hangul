@@ -48,7 +48,7 @@ export default function Reviewer({ items = [], title = 'Review', onBack }) {
         </div>
 
         <div style={{display:'flex',justifyContent:'flex-end',marginTop:16}}>
-          <button onClick={onBack}>Menu</button>
+          <button onClick={onBack}>Back</button>
         </div>
       </div>
     </main>

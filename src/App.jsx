@@ -13,7 +13,26 @@ import { useEffect } from 'react'
 
 export default function App() {
   const [mode, setMode] = useState(null) // 'vowels' | 'consonants' | 'vowels_single' ...
+  const [history, setHistory] = useState([])
   const [theme, setTheme] = useState('dark')
+
+  // navigation helpers: use `navigate(next)` to go to `next` and remember current
+  function navigate(next) {
+    setHistory(h => [...h, mode])
+    setMode(next)
+  }
+
+  function goBack() {
+    setHistory(h => {
+      if (!h || h.length === 0) {
+        setMode(null)
+        return []
+      }
+      const prev = h[h.length - 1]
+      setMode(prev)
+      return h.slice(0, -1)
+    })
+  }
 
   useEffect(() => {
     const saved = localStorage.getItem('hp-theme')
@@ -77,9 +96,9 @@ export default function App() {
           <div className="card menu">
             <h2>Choose Category</h2>
             <div className="menu-buttons menu-level1">
-              <button onClick={() => { setMode('submenu_vowels') }}>Vowels</button>
-              <button onClick={() => { setMode('submenu_consonants') }}>Consonants</button>
-              <button onClick={() => { setMode('submenu_syllables') }}>Syllables</button>
+              <button onClick={() => { navigate('submenu_vowels') }}>Vowels</button>
+              <button onClick={() => { navigate('submenu_consonants') }}>Consonants</button>
+              <button onClick={() => { navigate('submenu_syllables') }}>Syllables</button>
             </div>
             <p className="hint">Choose a category to see practice and review options.</p>
           </div>
@@ -93,22 +112,22 @@ export default function App() {
             <h2>Vowels</h2>
             <div style={{display:'flex',justifyContent:'space-between',alignItems:'center'}}>
               <div></div>
-              <button onClick={() => setMode(null)} style={{background:'transparent',color:'inherit',border:'none',cursor:'pointer'}}>Back</button>
+              <button onClick={goBack} style={{background:'transparent',color:'inherit',border:'none',cursor:'pointer'}}>Back</button>
             </div>
 
             <div className="menu-sections">
               <div className="menu-section">
                 <h3>Quiz</h3>
                 <div className="menu-buttons">
-                  <button onClick={() => setMode('vowels_single')}>Vowels (single)</button>
-                  <button onClick={() => setMode('vowels_double')}>Vowels (double)</button>
+                  <button onClick={() => navigate('vowels_single')}>Vowels (single)</button>
+                  <button onClick={() => navigate('vowels_double')}>Vowels (double)</button>
                 </div>
               </div>
               <div className="menu-section">
                 <h3>Review</h3>
                 <div className="menu-buttons">
-                  <button onClick={() => setMode('review_vowels_single')}>Vowels (single)</button>
-                  <button onClick={() => setMode('review_vowels_double')}>Vowels (double)</button>
+                  <button onClick={() => navigate('review_vowels_single')}>Vowels (single)</button>
+                  <button onClick={() => navigate('review_vowels_double')}>Vowels (double)</button>
                 </div>
               </div>
             </div>
@@ -123,22 +142,22 @@ export default function App() {
             <h2>Consonants</h2>
             <div style={{display:'flex',justifyContent:'space-between',alignItems:'center'}}>
               <div></div>
-              <button onClick={() => setMode(null)} style={{background:'transparent',color:'inherit',border:'none',cursor:'pointer'}}>Back</button>
+              <button onClick={goBack} style={{background:'transparent',color:'inherit',border:'none',cursor:'pointer'}}>Back</button>
             </div>
 
             <div className="menu-sections">
               <div className="menu-section">
                 <h3>Quiz</h3>
                 <div className="menu-buttons">
-                  <button onClick={() => setMode('consonants_single')}>Consonants (single)</button>
-                  <button onClick={() => setMode('consonants_double')}>Consonants (double)</button>
+                  <button onClick={() => navigate('consonants_single')}>Consonants (single)</button>
+                  <button onClick={() => navigate('consonants_double')}>Consonants (double)</button>
                 </div>
               </div>
               <div className="menu-section">
                 <h3>Review</h3>
                 <div className="menu-buttons">
-                  <button onClick={() => setMode('review_consonants_single')}>Consonants (single)</button>
-                  <button onClick={() => setMode('review_consonants_double')}>Consonants (double)</button>
+                  <button onClick={() => navigate('review_consonants_single')}>Consonants (single)</button>
+                  <button onClick={() => navigate('review_consonants_double')}>Consonants (double)</button>
                 </div>
               </div>
             </div>
@@ -153,27 +172,27 @@ export default function App() {
             <h2>Syllables</h2>
             <div style={{display:'flex',justifyContent:'space-between',alignItems:'center'}}>
               <div></div>
-              <button onClick={() => setMode(null)} style={{background:'transparent',color:'inherit',border:'none',cursor:'pointer'}}>Back</button>
+              <button onClick={goBack} style={{background:'transparent',color:'inherit',border:'none',cursor:'pointer'}}>Back</button>
             </div>
 
             <div className="menu-sections">
               <div className="menu-section">
                 <h3>Quiz</h3>
                 <div className="menu-buttons">
-                  <button onClick={() => setMode('syllables_vowels_single_quiz')}>Vowel Syllables (single)</button>
-                  <button onClick={() => setMode('syllables_vowels_double_quiz')}>Vowel Syllables (double)</button>
-                  <button onClick={() => setMode('syllables_consonants_single_quiz')}>Consonant Syllables (single)</button>
-                  <button onClick={() => setMode('syllables_consonants_double_quiz')}>Consonant Syllables (double)</button>
+                  <button onClick={() => navigate('syllables_vowels_single_quiz')}>Vowel Syllables (single)</button>
+                  <button onClick={() => navigate('syllables_vowels_double_quiz')}>Vowel Syllables (double)</button>
+                  <button onClick={() => navigate('syllables_consonants_single_quiz')}>Consonant Syllables (single)</button>
+                  <button onClick={() => navigate('syllables_consonants_double_quiz')}>Consonant Syllables (double)</button>
                 </div>
               </div>
 
               <div className="menu-section">
                 <h3>Review</h3>
                 <div className="menu-buttons">
-                  <button onClick={() => setMode('syllables_vowels_single')}>Vowel Syllables (single)</button>
-                  <button onClick={() => setMode('syllables_vowels_double')}>Vowel Syllables (double)</button>
-                  <button onClick={() => setMode('syllables_consonants_single')}>Consonant Syllables (single)</button>
-                  <button onClick={() => setMode('syllables_consonants_double')}>Consonant Syllables (double)</button>
+                  <button onClick={() => navigate('syllables_vowels_single')}>Vowel Syllables (single)</button>
+                  <button onClick={() => navigate('syllables_vowels_double')}>Vowel Syllables (double)</button>
+                  <button onClick={() => navigate('syllables_consonants_single')}>Consonant Syllables (single)</button>
+                  <button onClick={() => navigate('syllables_consonants_double')}>Consonant Syllables (double)</button>
                 </div>
               </div>
             </div>
@@ -182,67 +201,67 @@ export default function App() {
       )}
 
       {mode === 'vowels_single' && (
-        <Quiz items={vowels_single} onBack={() => setMode(null)} />
+        <Quiz items={vowels_single} onBack={goBack} />
       )}
 
       {mode === 'vowels_double' && (
-        <Quiz items={vowels_double} onBack={() => setMode(null)} />
+        <Quiz items={vowels_double} onBack={goBack} />
       )}
 
       {mode === 'consonants_single' && (
-        <Quiz items={consonants_single} onBack={() => setMode(null)} />
+        <Quiz items={consonants_single} onBack={goBack} />
       )}
 
       {mode === 'consonants_double' && (
-        <Quiz items={consonants_double} onBack={() => setMode(null)} />
+        <Quiz items={consonants_double} onBack={goBack} />
       )}
 
       {mode === 'review_vowels_single' && (
-        <Reviewer items={vowels_single} title="Vowels — single" onBack={() => setMode(null)} />
+        <Reviewer items={vowels_single} title="Vowels — single" onBack={goBack} />
       )}
 
       {mode === 'review_vowels_double' && (
-        <Reviewer items={vowels_double} title="Vowels — double" onBack={() => setMode(null)} />
+        <Reviewer items={vowels_double} title="Vowels — double" onBack={goBack} />
       )}
 
       {mode === 'review_consonants_single' && (
-        <Reviewer items={consonants_single} title="Consonants — single" onBack={() => setMode(null)} />
+        <Reviewer items={consonants_single} title="Consonants — single" onBack={goBack} />
       )}
 
       {mode === 'review_consonants_double' && (
-        <Reviewer items={consonants_double} title="Consonants — double" onBack={() => setMode(null)} />
+        <Reviewer items={consonants_double} title="Consonants — double" onBack={goBack} />
       )}
 
       {mode === 'syllables_vowels_single' && (
-        <Reviewer items={syllables.vowels_single} title="Syllables — Vowels (single)" onBack={() => setMode(null)} />
+        <Reviewer items={syllables.vowels_single} title="Syllables — Vowels (single)" onBack={goBack} />
       )}
 
       {mode === 'syllables_vowels_double' && (
-        <Reviewer items={syllables.vowels_double} title="Syllables — Vowels (double)" onBack={() => setMode(null)} />
+        <Reviewer items={syllables.vowels_double} title="Syllables — Vowels (double)" onBack={goBack} />
       )}
 
       {mode === 'syllables_consonants_single' && (
-        <Reviewer items={syllables.consonants_single} title="Syllables — Consonants (single)" onBack={() => setMode(null)} />
+        <Reviewer items={syllables.consonants_single} title="Syllables — Consonants (single)" onBack={goBack} />
       )}
 
       {mode === 'syllables_consonants_double' && (
-        <Reviewer items={syllables.consonants_double} title="Syllables — Consonants (double)" onBack={() => setMode(null)} />
+        <Reviewer items={syllables.consonants_double} title="Syllables — Consonants (double)" onBack={goBack} />
       )}
 
       {mode === 'syllables_vowels_single_quiz' && (
-        <Quiz items={syllables.vowels_single} onBack={() => setMode('submenu_syllables')} />
+        <Quiz items={syllables.vowels_single} onBack={goBack} />
       )}
 
       {mode === 'syllables_vowels_double_quiz' && (
-        <Quiz items={syllables.vowels_double} onBack={() => setMode('submenu_syllables')} />
+        <Quiz items={syllables.vowels_double} onBack={goBack} />
       )}
 
       {mode === 'syllables_consonants_single_quiz' && (
-        <Quiz items={syllables.consonants_single} onBack={() => setMode('submenu_syllables')} />
+        <Quiz items={syllables.consonants_single} onBack={goBack} />
       )}
 
       {mode === 'syllables_consonants_double_quiz' && (
-        <Quiz items={syllables.consonants_double} onBack={() => setMode('submenu_syllables')} />
+        <Quiz items={syllables.consonants_double} onBack={goBack} />
       )}
 
       <footer className="footer">

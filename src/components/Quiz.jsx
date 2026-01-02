@@ -37,7 +37,7 @@ export default function Quiz({ items, onBack }) {
           <p className="big">{score} / {TOTAL}</p>
           <div className="controls">
             <button onClick={redo}>Redo</button>
-            <button onClick={onBack}>Back to Menu</button>
+            <button onClick={onBack}>Back</button>
           </div>
         </div>
       </div>
@@ -91,7 +91,7 @@ export default function Quiz({ items, onBack }) {
           <button onClick={() => { if (index + 1 < TOTAL) next(); else setIndex(TOTAL) }} disabled={!selected}>
             {index + 1 < TOTAL ? 'Next' : 'Finish'}
           </button>
-          <button onClick={onBack}>Menu</button>
+          <button onClick={onBack}>Back</button>
         </div>
       </div>
     </div>
