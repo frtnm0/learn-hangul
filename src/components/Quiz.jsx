@@ -1,23 +1,35 @@
-import React, { useState, useMemo } from 'react'
+import React, { useState, useEffect } from 'react'
 
+// Fisher–Yates shuffle for robust randomness
 function shuffle(arr) {
-  return arr.slice().sort(() => Math.random() - 0.5)
+  const a = arr.slice()
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
+
+function makeQuestions(items, TOTAL) {
+  const result = []
+  for (let i = 0; i < TOTAL; i++) {
+    const correct = items[Math.floor(Math.random() * items.length)]
+    const othersPool = items.filter(p => p.name !== correct.name)
+    const others = shuffle(othersPool).slice(0, 2)
+    const options = shuffle([correct, ...others])
+    result.push({ correct, options })
+  }
+  return result
 }
 
 export default function Quiz({ items, onBack }) {
   const TOTAL = 20
-  const pool = useMemo(() => shuffle(items), [items])
-  const questions = useMemo(() => {
-    const result = []
-    for (let i = 0; i < TOTAL; i++) {
-      const correct = pool[i % pool.length]
-      // pick two other random names
-      const others = shuffle(items.filter(p => p.name !== correct.name)).slice(0, 2)
-      const options = shuffle([correct, ...others])
-      result.push({ correct, options })
-    }
-    return result
-  }, [items, pool])
+  const [questions, setQuestions] = useState(() => makeQuestions(items, TOTAL))
+
+  // regenerate when items change
+  useEffect(() => {
+    setQuestions(makeQuestions(items, TOTAL))
+  }, [items])
 
   const [index, setIndex] = useState(0)
   const [score, setScore] = useState(0)
@@ -27,6 +39,7 @@ export default function Quiz({ items, onBack }) {
     setIndex(0)
     setScore(0)
     setSelected(null)
+    setQuestions(makeQuestions(items, TOTAL))
   }
 
   if (index >= TOTAL) {
