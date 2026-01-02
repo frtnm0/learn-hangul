@@ -162,28 +162,16 @@ export default function App() {
                 <div className="menu-buttons">
                   <button onClick={() => setMode('syllables_vowels_single_quiz')}>Vowel Syllables (single)</button>
                   <button onClick={() => setMode('syllables_vowels_double_quiz')}>Vowel Syllables (double)</button>
+                  <button onClick={() => setMode('syllables_consonants_single_quiz')}>Consonant Syllables (single)</button>
+                  <button onClick={() => setMode('syllables_consonants_double_quiz')}>Consonant Syllables (double)</button>
                 </div>
               </div>
+
               <div className="menu-section">
                 <h3>Review</h3>
                 <div className="menu-buttons">
                   <button onClick={() => setMode('syllables_vowels_single')}>Vowel Syllables (single)</button>
                   <button onClick={() => setMode('syllables_vowels_double')}>Vowel Syllables (double)</button>
-                </div>
-              </div>
-            </div>
-
-            <div className="menu-sections" style={{marginTop:12}}>
-              <div className="menu-section">
-                <h3>Quiz</h3>
-                <div className="menu-buttons">
-                  <button onClick={() => setMode('syllables_consonants_single_quiz')}>Consonant Syllables (single)</button>
-                  <button onClick={() => setMode('syllables_consonants_double_quiz')}>Consonant Syllables (double)</button>
-                </div>
-              </div>
-              <div className="menu-section">
-                <h3>Review</h3>
-                <div className="menu-buttons">
                   <button onClick={() => setMode('syllables_consonants_single')}>Consonant Syllables (single)</button>
                   <button onClick={() => setMode('syllables_consonants_double')}>Consonant Syllables (double)</button>
                 </div>
