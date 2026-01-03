@@ -84,6 +84,8 @@ export default function App() {
   // map generated wordlists into Quiz/Reviewer-friendly format
   const wordsCommonItems = (commonWords || []).map(w => ({ char: w.word, name: w.romanization || w.word, example: w.translation || '' }))
   const wordsShortItems = (shortWords || []).map(w => ({ char: w.word, name: w.romanization || w.word, example: w.translation || '' }))
+  // short words that are exactly one Hangul block (one syllable)
+  const wordsShortSingleItems = wordsShortItems.filter(w => typeof w.char === 'string' && w.char.length === 1)
 
   function sampleItems(arr, n = 20) {
     if (!Array.isArray(arr)) return arr;
@@ -234,6 +236,7 @@ export default function App() {
                 <div className="menu-buttons">
                   <button onClick={() => navigate('quiz_words_common')}>Common Words</button>
                   <button onClick={() => navigate('quiz_words_short')}>Short Words</button>
+                  <button onClick={() => navigate('quiz_words_short_single')}>Short (1 syllable)</button>
                 </div>
               </div>
 
@@ -242,6 +245,7 @@ export default function App() {
                 <div className="menu-buttons">
                   <button onClick={() => navigate('review_words_common')}>Common Words</button>
                   <button onClick={() => navigate('review_words_short')}>Short Words</button>
+                  <button onClick={() => navigate('review_words_short_single')}>Short (1 syllable)</button>
                 </div>
               </div>
             </div>
@@ -322,12 +326,20 @@ export default function App() {
         <Quiz items={wordsShortItems} onBack={goBack} />
       )}
 
+      {mode === 'quiz_words_short_single' && (
+        <Quiz items={wordsShortSingleItems} onBack={goBack} />
+      )}
+
       {mode === 'review_words_common' && (
         <Reviewer items={sampleItems(wordsCommonItems, 20)} title="Words — Common" onBack={goBack} />
       )}
 
       {mode === 'review_words_short' && (
         <Reviewer items={sampleItems(wordsShortItems, 20)} title="Words — Short" onBack={goBack} />
+      )}
+
+      {mode === 'review_words_short_single' && (
+        <Reviewer items={sampleItems(wordsShortSingleItems, 20)} title="Words — Short (1 syllable)" onBack={goBack} />
       )}
 
       <footer className="footer">
